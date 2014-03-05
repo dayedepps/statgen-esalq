@@ -1,7 +1,7 @@
 title:            Site Title
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://augusto-garcia.github.io/minimal-mistakes/
 
 # Owner/author information
 owner:
