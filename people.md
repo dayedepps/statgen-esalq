@@ -69,7 +69,7 @@ _**Adriana**_ lorem ipsum dolor sit amet, test link
 adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
 Pellentesque accumsan sodales risus.
 
-![marcelo]({{ site.url }}/images/bio-photo2.jpg)
+![marcelo]({{ site.url }}/images/bio-photo.jpg)
 {: .image-pull-right}
 
 Donec vel auctor diam. Suspendisse non nibh vel neque tristique
@@ -89,7 +89,7 @@ _**Guilherme**_ lorem ipsum dolor sit amet, test link
 adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
 Pellentesque accumsan sodales risus.
 
-![marcelo]({{ site.url }}/images/bio-photo2.jpg)
+![marcelo]({{ site.url }}/images/bio-photo.jpg)
 {: .image-pull-right}
 
 Donec vel auctor diam. Suspendisse non nibh vel neque tristique
@@ -109,7 +109,7 @@ _**João Ricardo**_ lorem ipsum dolor sit amet, test link
 adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
 Pellentesque accumsan sodales risus.
 
-![marcelo]({{ site.url }}/images/bio-photo2.jpg)
+![marcelo]({{ site.url }}/images/bio-photo.jpg)
 {: .image-pull-right}
 
 Donec vel auctor diam. Suspendisse non nibh vel neque tristique
@@ -129,7 +129,7 @@ _**Carina**_ lorem ipsum dolor sit amet, test link
 adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
 Pellentesque accumsan sodales risus.
 
-![marcelo]({{ site.url }}/images/bio-photo2.jpg)
+![marcelo]({{ site.url }}/images/bio-photo.jpg)
 {: .image-pull-right}
 
 Donec vel auctor diam. Suspendisse non nibh vel neque tristique
@@ -149,7 +149,7 @@ _**Luís Felipe**_ lorem ipsum dolor sit amet, test link
 adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
 Pellentesque accumsan sodales risus.
 
-![marcelo]({{ site.url }}/images/bio-photo2.jpg)
+![marcelo]({{ site.url }}/images/bio-photo.jpg)
 {: .image-pull-right}
 
 Donec vel auctor diam. Suspendisse non nibh vel neque tristique
@@ -169,7 +169,7 @@ _**Letícia**_ lorem ipsum dolor sit amet,
 test link adipiscing elit. Nullam dignissim convallis est. Quisque
 aliquam. Pellentesque accumsan sodales risus.
 
-![marcelo]({{ site.url }}/images/bio-photo2.jpg)
+![marcelo]({{ site.url }}/images/bio-photo.jpg)
 {: .image-pull-right}
 
 Donec vel auctor diam. Suspendisse non nibh vel neque tristique
@@ -189,7 +189,7 @@ _**Marianella**_ lorem ipsum dolor sit amet,
 test link adipiscing elit. Nullam dignissim convallis est. Quisque
 aliquam. Pellentesque accumsan sodales risus.
 
-![marcelo]({{ site.url }}/images/bio-photo2.jpg)
+![marcelo]({{ site.url }}/images/bio-photo.jpg)
 {: .image-pull-right}
 
 Donec vel auctor diam. Suspendisse non nibh vel neque tristique
@@ -211,7 +211,7 @@ _**Danilo**_ lorem ipsum dolor sit amet,
 test link adipiscing elit. Nullam dignissim convallis est. Quisque
 aliquam. Pellentesque accumsan sodales risus.
 
-![marcelo]({{ site.url }}/images/bio-photo2.jpg)
+![marcelo]({{ site.url }}/images/bio-photo.jpg)
 {: .image-pull-right}
 
 Donec vel auctor diam. Suspendisse non nibh vel neque tristique
@@ -233,7 +233,7 @@ _**Izabel**_ lorem ipsum dolor sit amet,
 test link adipiscing elit. Nullam dignissim convallis est. Quisque
 aliquam. Pellentesque accumsan sodales risus.
 
-![marcelo]({{ site.url }}/images/bio-photo2.jpg)
+![marcelo]({{ site.url }}/images/bio-photo.jpg)
 {: .image-pull-right}
 
 Donec vel auctor diam. Suspendisse non nibh vel neque tristique
@@ -254,7 +254,7 @@ _**Rodrigo**_ lorem ipsum dolor sit amet,
 test link adipiscing elit. Nullam dignissim convallis est. Quisque
 aliquam. Pellentesque accumsan sodales risus.
 
-![marcelo]({{ site.url }}/images/bio-photo2.jpg)
+![marcelo]({{ site.url }}/images/bio-photo.jpg)
 {: .image-pull-right}
 
 Donec vel auctor diam. Suspendisse non nibh vel neque tristique
