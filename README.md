@@ -1,6 +1,6 @@
 # Statistical Genetics Laboratory
 
-This is the web page of the group.
+This is the web page of the Lab.
 
 It is hosted by the Department of Genetics, Luiz de Queiroz College of
 Agriculture, University of São Paulo, in Piracicaba, Brazil.
