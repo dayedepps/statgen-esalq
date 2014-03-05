@@ -11,8 +11,6 @@ image:
   creditlink: http://augusto-garcia.github.io/
 ---
 
-## Postdocs
-
 #### Marcelo Mollinari
 
 _**Marcelo**_ lorem ipsum dolor sit amet, test link adipiscing elit.
@@ -33,8 +31,6 @@ Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
 facilisi. Pellentesque bibendum felis nec lacus sollicitudin
 hendrerit.
 
-
-## PhD Students
 
 #### Adriana Cheavegatti Gianotto
 
@@ -176,8 +172,6 @@ Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
 facilisi. Pellentesque bibendum felis nec lacus sollicitudin
 hendrerit.
 
-## MSc Students
-
 #### Danilo Cursi
 
 _**Danilo**_ lorem ipsum dolor sit amet,
@@ -197,8 +191,6 @@ Suspendisse sem ante, consectetur quis sem eu, placerat egestas nibh.
 Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
 facilisi. Pellentesque bibendum felis nec lacus sollicitudin
 hendrerit.
-
-## Undergraduated students
 
 #### Maria Izabel Cavassim Alves
 
