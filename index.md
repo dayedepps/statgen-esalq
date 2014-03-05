@@ -1,9 +1,10 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "Statistical Genetics Lab, hosted by Department of
+Genetics, ESALQ/USP."
+tags: [statgen]
 image:
-  feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: esalq-main-building-lake.jpg
+  credit: augusto garcia
+  creditlink: http://augusto-garcia.github.io/
 ---
