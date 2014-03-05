@@ -46,7 +46,7 @@ _**Marcelo**_ lorem ipsum dolor sit amet, test link adipiscing elit.
 Nullam dignissim convallis est. Quisque aliquam. Pellentesque accumsan
 sodales risus.
 
-![marcelo]({{ site.url }}/images/bio-photo2.jpg)
+![marcelo]({{ site.url }}/images/bio-photo.jpg)
 {: .image-pull-right}
 
 Donec vel auctor diam. Suspendisse non nibh vel neque tristique
