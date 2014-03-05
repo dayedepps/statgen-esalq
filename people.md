@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /people/
 title: People
 description: "Description of everybody in the Lab at this time."
