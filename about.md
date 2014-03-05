@@ -1,29 +1,49 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 9-9-2013
+title: About the Lab
+tagline: What we are doing here
+tags: [about, statgen]
+modified: 2-3-2014
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: esalq-statue.jpg
+  credit: augusto garcia
+  creditlink: http://augusto-garcia.github.io/
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+The Statistical Genetics Lab is hosted by Department of Genetics,
+Luiz de Queiroz College of Agriculture, University of São Paulo.
 
-## Minimal Mistakes is all about:
+The Lab has a group of people (faculty, postdocs, graduated students
+and undergrads) that has a common interested: develop methods to
+analyze genetic data. There are a number of subjects being
+investigated, including major crops and also less studied species.
+Polyploids are also investigated and having being the major focus of
+the Lab from some years.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+Collaboration is high valued. Everybody is supposed to present ideas
+and share scientific discoveries, and also to disseminate the ideas of
+free software, collaborative tools, and reproducible research.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+Students with more experience normally help the new ones, encouraging
+them to follow the good steps and developing a strong sense of
+self-learning, responsibility, and collaboration.
 
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
+New students joining the group need to learn a number of new tools
+that normally are not presented on regular courses. This web page has
+a special section presenting short tutorials about these tools.
 
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+Every week, there are Lab meetings, when everybody must present their
+progress on specific research topics. Also, there are "tematic" weekly
+meetings. Nowadays, the subject is "mixed models": the group is
+reading and discussing a book altogether.
+
+## Some research topics:
+
+* Genetic mapping: statistical methods and the software
+  [_OneMap_](http://cran.r-project.org/web/packages/onemap/index.html)
+* QTL Mapping
+* Association Mapping
+* G x E interaction
+* Genomic Selection
+* Genetic of Polyploids
