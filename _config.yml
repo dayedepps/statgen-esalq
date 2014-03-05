@@ -1,6 +1,5 @@
 title:            Statistical Genetics Laboratory
-description:      Department of Genetics, ESALQ/USP (coordinator: A
-Augusto F Garcia)
+description:      Research group that studies the genetic architecture of quantitative traits 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://augusto-garcia.github.io/minimal-mistakes/
 
@@ -8,7 +7,7 @@ url:              http://augusto-garcia.github.io/minimal-mistakes/
 owner:
   name:           Statistical Genetics
   avatar:         LogoLab.jpg
-  bio:            "Department of Genetics, ESALQ/USP"
+  bio:            "Department of Genetics, ESALQ/USP (coordinator: A Augusto F Garcia)"
   email:          aafgarci@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: aafgarci       
