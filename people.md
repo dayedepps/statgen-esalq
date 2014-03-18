@@ -125,8 +125,8 @@ hendrerit.
 
 #### Carina de Oliveira Anoni (by herself)
 
-_**Carina**_ is a PhD Candidate at  Department of Genetics. She is
-Agronomist and has Master Degree in Genetics and Plant Breeding.
+_**Carina**_ is a PhD Candidate at the Department of Genetics. She is
+an Agronomist and has a Master Degree in Genetics and Plant Breeding.
 
 ![carina]({{ site.url }}/images/carina.jpg)
 {: .image-pull-right}
