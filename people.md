@@ -123,45 +123,42 @@ Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
 facilisi. Pellentesque bibendum felis nec lacus sollicitudin
 hendrerit.
 
-#### Carina de Oliveira Anoni
+#### Carina de Oliveira Anoni (by herself)
 
-_**Carina**_ lorem ipsum dolor sit amet, test link
-adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-Pellentesque accumsan sodales risus.
+_**Carina**_ is a PhD Candidate at  Department of Genetics. She is
+Agronomist and has Master Degree in Genetics and Plant Breeding.
 
-![marcelo]({{ site.url }}/images/bio-photo.jpg)
+![carina]({{ site.url }}/images/carina.jpg)
 {: .image-pull-right}
 
-Donec vel auctor diam. Suspendisse non nibh vel neque tristique
-fermentum eget iaculis nulla. Mauris turpis erat, auctor eu lobortis
-id, feugiat in massa. Donec aliquet sagittis enim quis scelerisque.
-Vestibulum sed ultrices massa. Praesent vel urna blandit tortor tempus
-vehicula nec et eros. Pellentesque at consectetur odio, at porta ante.
-Suspendisse sem ante, consectetur quis sem eu, placerat egestas nibh.
+In her PhD, she is developing methods of quantitative genetics that
+can be applied to phenotypic data, QTL mapping and genetic linkage
+maps. The goal of Carina's research is to use statistical methods in
+order to have a better understanding the genetic basis of quantitative
+traits. Currently, she works on the development of new methodologies for
+association mapping in polyploids, focusing on sugarcane.
 
-Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
-facilisi. Pellentesque bibendum felis nec lacus sollicitudin
-hendrerit.
 
-#### Luís Felipe Ventorim Ferrão
+#### Luís Felipe Ventorim Ferrão (by himself)
 
-_**Luís Felipe**_ lorem ipsum dolor sit amet, test link
-adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-Pellentesque accumsan sodales risus.
+_**Felipe**_ is a biologist and a PhD student of the Department of
+Genetics, University of São Paulo (ESALQ/USP). His current research
+involves the development of statistical methods for genomic prediction
+in genomic selection. For this, he is working with molecular data
+(SNPs) originated by techniques of next generation sequencing, like
+GBS (Genotyping by sequencing).
 
-![marcelo]({{ site.url }}/images/bio-photo.jpg)
+![felipe]({{ site.url }}/images/bio-photo.jpg)
 {: .image-pull-right}
 
-Donec vel auctor diam. Suspendisse non nibh vel neque tristique
-fermentum eget iaculis nulla. Mauris turpis erat, auctor eu lobortis
-id, feugiat in massa. Donec aliquet sagittis enim quis scelerisque.
-Vestibulum sed ultrices massa. Praesent vel urna blandit tortor tempus
-vehicula nec et eros. Pellentesque at consectetur odio, at porta ante.
-Suspendisse sem ante, consectetur quis sem eu, placerat egestas nibh.
+He has concentrated his studies in Computing for Statistical Genetics
+(especially in _R software_), mixed models and, more recently,
+Bayesian approaches. Furthermore, during the graduation and masters,
+he participated of studies in genetic diversity, development and
+validation of EST-SSR markers and QTL mapping. Most of his studies are
+focused on Coffea canephora, which is one of the coffee species most
+consumed in the world.
 
-Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
-facilisi. Pellentesque bibendum felis nec lacus sollicitudin
-hendrerit.
 
 #### Letícia Aparecida de Castro Lara
 
