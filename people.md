@@ -149,7 +149,7 @@ in genomic selection. For this, he is working with molecular data
 (SNPs) originated by techniques of next generation sequencing, like
 GBS (Genotyping by sequencing).
 
-![felipe]({{ site.url }}/images/bio-photo.jpg)
+![felipe]({{ site.url }}/images/felipe.jpg)
 {: .image-pull-right}
 
 He has concentrated his studies in Computing for Statistical Genetics
