@@ -143,22 +143,22 @@ More information: [Lattes CV](http://goo.gl/cRriNL)
 #### Luís Felipe Ventorim Ferrão (by himself)
 
 _**Felipe**_ is a biologist and a PhD student of the Department of
-Genetics, University of São Paulo (ESALQ/USP). His current research
-involves the development of statistical methods for genomic prediction
-in genomic selection. For this, he is working with molecular data
-(SNPs) originated by techniques of next generation sequencing, like
-GBS (Genotyping by sequencing).
+Genetics, University of São Paulo (ESALQ/USP). 
 
 ![felipe]({{ site.url }}/images/felipe.jpg)
 {: .image-pull-right}
 
-He has concentrated his studies in Computing for Statistical Genetics
-(especially in _R software_), mixed models and, more recently,
-Bayesian approaches. Furthermore, during the graduation and masters,
-he participated of studies in genetic diversity, development and
-validation of EST-SSR markers and QTL mapping. Most of his studies are
-focused on Coffea canephora, which is one of the coffee species most
-consumed in the world.
+His current research project involves the development of statistical
+methods for genomic prediction in genomic selection. He is working
+with molecular data (SNPs) originated by techniques of next generation
+sequencing, like GBS (Genotyping by sequencing). He has concentrated
+his studies in Computing for Statistical Genetics (especially in _R
+software_), mixed models and, more recently, Bayesian approaches.
+Furthermore, during the graduation and masters, he participated in
+studies of genetic diversity, development and validation of EST-SSR
+markers and QTL mapping. Most of his studies are focused on Coffea
+canephora, which is one of the coffee species most consumed in the
+world.
 
 
 #### Letícia Aparecida de Castro Lara
