@@ -138,6 +138,7 @@ order to have a better understanding the genetic basis of quantitative
 traits. Currently, she works on the development of new methodologies for
 association mapping in polyploids, focusing on sugarcane.
 
+More information: http://goo.gl/cRriNL
 
 #### Luís Felipe Ventorim Ferrão (by himself)
 
