@@ -233,23 +233,19 @@ should be selected for commercial production.
 
 #### Maria Izabel Cavassim Alves
 
-_**Izabel**_ lorem ipsum dolor sit amet,
-test link adipiscing elit. Nullam dignissim convallis est. Quisque
-aliquam. Pellentesque accumsan sodales risus.
+**Maria Izabel** is an undergraduate student of the 4th year of
+Agronomy in the College of Agriculture "Luiz de Queiroz" - USP.
 
-![marcelo]({{ site.url }}/images/bio-photo.jpg)
+![MariaIzabel]({{ site.url }}/images/MariaIzabel.jpg)
 {: .image-pull-right}
 
-Donec vel auctor diam. Suspendisse non nibh vel neque tristique
-fermentum eget iaculis nulla. Mauris turpis erat, auctor eu lobortis
-id, feugiat in massa. Donec aliquet sagittis enim quis scelerisque.
-Vestibulum sed ultrices massa. Praesent vel urna blandit tortor tempus
-vehicula nec et eros. Pellentesque at consectetur odio, at porta ante.
-Suspendisse sem ante, consectetur quis sem eu, placerat egestas nibh.
-
-Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
-facilisi. Pellentesque bibendum felis nec lacus sollicitudin
-hendrerit.
+Currently doing internship in the Department of Genetics (ESALQ,
+University of São Paulo) under the guidance of Professor A. Augusto F.
+Garcia, with a focus on understanding population genetics using a
+Bayesian approach. She is now taking courses at KTH-Royal Institute of
+Technology (Stockholm- Sweden) with a focus on learning bioinformatics
+tools and Molecular Analysis of data from high-throughput biology
+experiments.
 
 
 #### Rodrigo Rampazzo Amadeu
