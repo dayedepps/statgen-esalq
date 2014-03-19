@@ -210,7 +210,7 @@ hendrerit.
 
 ## MSc Students
 
-#### Danilo Eduardo Cursi
+#### Danilo Eduardo Cursi (by himself)
 
 **Danilo** is an Agronomist and a Master Student (MSc) in Genetics and
 Plant Breeding of the Department of Genetics, University of São Paulo
