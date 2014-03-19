@@ -105,9 +105,9 @@ hendrerit.
 
 #### João Ricardo Bachega Feijó Rosa (by himself)
 
-**João Ricardo**** has an undergraduate degree in Agronomy and is a
-PhD Candidate in Genetics and Plant Breeding at Luiz de Queiroz
-College of Agriculture, University of São Paulo.
+**João Ricardo** has an undergraduate degree in Agronomy and is a PhD
+Candidate in Genetics and Plant Breeding at Luiz de Queiroz College of
+Agriculture, University of São Paulo.
 
 ![joaoricardo]({{ site.url }}/images/JoaoRicardo.jpg)
 {: .image-pull-right}
