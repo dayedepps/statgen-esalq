@@ -210,25 +210,24 @@ hendrerit.
 
 ## MSc Students
 
-#### Danilo Cursi
+#### Danilo Eduardo Cursi
 
-_**Danilo**_ lorem ipsum dolor sit amet,
-test link adipiscing elit. Nullam dignissim convallis est. Quisque
-aliquam. Pellentesque accumsan sodales risus.
+**Danilo** is an Agronomist and a Master Student (MSc) in Genetics and
+Plant Breeding of the Department of Genetics, University of São Paulo
+(ESALQ/USP).
 
-![marcelo]({{ site.url }}/images/bio-photo.jpg)
+![danilo]({{ site.url }}/images/Danilo.jpg)
 {: .image-pull-right}
 
-Donec vel auctor diam. Suspendisse non nibh vel neque tristique
-fermentum eget iaculis nulla. Mauris turpis erat, auctor eu lobortis
-id, feugiat in massa. Donec aliquet sagittis enim quis scelerisque.
-Vestibulum sed ultrices massa. Praesent vel urna blandit tortor tempus
-vehicula nec et eros. Pellentesque at consectetur odio, at porta ante.
-Suspendisse sem ante, consectetur quis sem eu, placerat egestas nibh.
+In addition, he is part of the research team in the sugarcane breeding
+program of RIDESA/UFSCar. Currently, he is focusing his studies in
+analyzing how much genetic gain a sugarcane breeding institution can
+have adopting different selection strategies at early (seedlings)
+stage. Furthermore, he is developing a new genetic value system
+(selection index) to provide information to breeders about which
+individuals should be selected as parent for crossing and which ones
+should be selected for commercial production.
 
-Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
-facilisi. Pellentesque bibendum felis nec lacus sollicitudin
-hendrerit.
 
 ## Undergraduated students
 
