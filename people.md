@@ -231,7 +231,7 @@ should be selected for commercial production.
 
 ## Undergraduated students
 
-#### Maria Izabel Cavassim Alves
+#### Maria Izabel Cavassim Alves (by herself)
 
 **Maria Izabel** is an undergraduate student of the 4th year of
 Agronomy in the College of Agriculture "Luiz de Queiroz" - USP.
