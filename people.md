@@ -103,25 +103,32 @@ Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
 facilisi. Pellentesque bibendum felis nec lacus sollicitudin
 hendrerit.
 
-#### João Ricardo Bachega Feijó Rosa
+#### João Ricardo Bachega Feijó Rosa (by himself)
 
-_**João Ricardo**_ lorem ipsum dolor sit amet, test link
-adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-Pellentesque accumsan sodales risus.
+**João Ricardo**** has an undergraduate degree in Agronomy and is a
+PhD Candidate in Genetics and Plant Breeding at Luiz de Queiroz
+College of Agriculture, University of São Paulo.
 
-![marcelo]({{ site.url }}/images/bio-photo.jpg)
+![joaoricardo]({{ site.url }}/images/JoaoRicardo.jpg)
 {: .image-pull-right}
 
-Donec vel auctor diam. Suspendisse non nibh vel neque tristique
-fermentum eget iaculis nulla. Mauris turpis erat, auctor eu lobortis
-id, feugiat in massa. Donec aliquet sagittis enim quis scelerisque.
-Vestibulum sed ultrices massa. Praesent vel urna blandit tortor tempus
-vehicula nec et eros. Pellentesque at consectetur odio, at porta ante.
-Suspendisse sem ante, consectetur quis sem eu, placerat egestas nibh.
+He initiated his career as a sugarcane breeder at Federal University
+of São Carlos, one of the principal Federal Universities in Brazil
+that is responsible for RIDESA, a public country-wide sugarcane
+breeding program. During his master degree at Department of Genetics
+of the University of São Paulo, João was interested to investigate the
+patterns of linkage disequilibrium and population structure on a
+Brazilian collection of sugarcane genotypes, a group of historically
+important accessions to Brazilian germplasm. His principal interest
+while a PhD Candidate is to use coalescent theory and population
+genetics concepts to understand the linkage disequilibrium and the
+evolutionary past of an important panel of accessions of Sorghum using
+next generation sequencing (SNPs from Genotyping-By-Sequencing).
+Furthermore, João is also involved into genome-wide association
+studies in Sorghum and collaborative projects of linkage analysis and
+association mapping of other very important crops for Brazil, such as
+common bean, cacao and passion fruit.
 
-Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
-facilisi. Pellentesque bibendum felis nec lacus sollicitudin
-hendrerit.
 
 #### Carina de Oliveira Anoni (by herself)
 
