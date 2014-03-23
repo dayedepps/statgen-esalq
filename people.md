@@ -105,9 +105,9 @@ hendrerit.
 
 #### João Ricardo Bachega Feijó Rosa (by himself)
 
-**João Ricardo** has an undergraduate degree in Agronomy and is a PhD
-Candidate in Genetics and Plant Breeding at Luiz de Queiroz College of
-Agriculture, University of São Paulo.
+_**João Ricardo**_ has an undergraduate degree in Agronomy and is a
+PhD Candidate in Genetics and Plant Breeding at Luiz de Queiroz
+College of Agriculture, University of São Paulo.
 
 ![joaoricardo]({{ site.url }}/images/JoaoRicardo.jpg)
 {: .image-pull-right}
@@ -168,6 +168,28 @@ canephora, which is one of the coffee species most consumed in the
 world.
 
 
+#### Marianella Fernanda Quezada Macchiavello (by herself)
+
+_**Marianella**_ is a PhD student in Genetics and Plant Breeding at
+Luiz de Queiroz College of Agriculture, University of São Paulo. She
+is a Biologist and has a Master Degree in Agriculture Sciences
+(Universidad de la República-UdelaR, Uruguay).
+
+
+![marianella]({{ site.url }}/images/Marianella.jpg)
+{: .image-pull-right}
+
+Additionally, she is an Assistant Professor in the Department of Plant
+Biology, Faculty of Agronomy, UdelaR. Her interests and objectives
+pertain to plant breeding, molecular biology and genetic mapping. She
+has been working on genetic diversity analysis with molecular markers,
+transferability of microsatellites markers and genetic linkage
+mapping. Her current PhD project include the study of genetic
+architecture of genetic quantitative traits loci through linkage and
+QTL mapping using next generation sequence data (GBS). Her research is
+focused in emerging fruits crops, like Acca sellowiana.
+
+
 #### Letícia Aparecida de Castro Lara
 
 _**Letícia**_ lorem ipsum dolor sit amet,
@@ -188,33 +210,14 @@ Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
 facilisi. Pellentesque bibendum felis nec lacus sollicitudin
 hendrerit.
 
-#### Marianella Fernanda Quezada Macchiavello
-
-_**Marianella**_ lorem ipsum dolor sit amet,
-test link adipiscing elit. Nullam dignissim convallis est. Quisque
-aliquam. Pellentesque accumsan sodales risus.
-
-![marcelo]({{ site.url }}/images/bio-photo.jpg)
-{: .image-pull-right}
-
-Donec vel auctor diam. Suspendisse non nibh vel neque tristique
-fermentum eget iaculis nulla. Mauris turpis erat, auctor eu lobortis
-id, feugiat in massa. Donec aliquet sagittis enim quis scelerisque.
-Vestibulum sed ultrices massa. Praesent vel urna blandit tortor tempus
-vehicula nec et eros. Pellentesque at consectetur odio, at porta ante.
-Suspendisse sem ante, consectetur quis sem eu, placerat egestas nibh.
-
-Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
-facilisi. Pellentesque bibendum felis nec lacus sollicitudin
-hendrerit.
 
 ## MSc Students
 
 #### Danilo Eduardo Cursi (by himself)
 
-**Danilo** is an Agronomist and a Master Student (MSc) in Genetics and
-Plant Breeding of the Department of Genetics, University of São Paulo
-(ESALQ/USP).
+_**Danilo**_ is an Agronomist and a Master Student (MSc) in Genetics
+and Plant Breeding of the Department of Genetics, University of São
+Paulo (ESALQ/USP).
 
 ![danilo]({{ site.url }}/images/Danilo.jpg)
 {: .image-pull-right}
@@ -233,7 +236,7 @@ should be selected for commercial production.
 
 #### Maria Izabel Cavassim Alves (by herself)
 
-**Maria Izabel** is an undergraduate student of the 4th year of
+_**Maria Izabel**_ is an undergraduate student of the 4th year of
 Agronomy in the College of Agriculture "Luiz de Queiroz" - USP.
 
 ![MariaIzabel]({{ site.url }}/images/MariaIzabel.jpg)
