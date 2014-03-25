@@ -63,25 +63,31 @@ hendrerit.
 
 ## PhD Students
 
-#### Adriana Cheavegatti Gianotto
+#### Adriana Cheavegatti Gianotto (by herself)
 
-_**Adriana**_ lorem ipsum dolor sit amet, test link
-adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-Pellentesque accumsan sodales risus.
+_**Adriana**_ is an Agronomist by Federal University of Viçosa. She
+started her career while still undergraduate student working at
+BIOAGRO at the Plant-Pathogen Genetic Interaction Laboratory. During
+her Master Degree at the Genetics Department of the same University,
+she mapped a chromosome region of the tomato genome related to
+geminiviruses resistance, for further positional cloning of a major
+gene (Ty-1).
 
-![marcelo]({{ site.url }}/images/bio-photo.jpg)
+![adriana]({{ site.url }}/images/Adriana.jpg)
 {: .image-pull-right}
 
-Donec vel auctor diam. Suspendisse non nibh vel neque tristique
-fermentum eget iaculis nulla. Mauris turpis erat, auctor eu lobortis
-id, feugiat in massa. Donec aliquet sagittis enim quis scelerisque.
-Vestibulum sed ultrices massa. Praesent vel urna blandit tortor tempus
-vehicula nec et eros. Pellentesque at consectetur odio, at porta ante.
-Suspendisse sem ante, consectetur quis sem eu, placerat egestas nibh.
+Currently, she is engaged at her PhD at Department of Genetics (Luiz
+de Queiroz College of Agriculture, University of São Paulo). She is
+evaluating the use of Structural Equation Models to map QTL
+controlling a set of correlated traits of root morphology and
+phosphorus acquisition in maize. In addition, she has also worked for
+many years in research programs of Biotech Companies such as Alellyx
+and Canavialis, which were latter acquired by Monsanto. During this
+period, she had the opportunity to work at different phases of
+development of genetically modified cultivars of sugarcane, citrus and
+eucalyptus, such as plant transformation, field trials, biosafety
+studies and regulatory affairs with governmental organizations.
 
-Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
-facilisi. Pellentesque bibendum felis nec lacus sollicitudin
-hendrerit.
 
 #### Guilherme da Silva Pereira
 
@@ -190,25 +196,22 @@ QTL mapping using next generation sequence data (GBS). Her research is
 focused in emerging fruits crops, like Acca sellowiana.
 
 
-#### Letícia Aparecida de Castro Lara
+#### Letícia Aparecida de Castro Lara (by herself)
 
-_**Letícia**_ lorem ipsum dolor sit amet,
-test link adipiscing elit. Nullam dignissim convallis est. Quisque
-aliquam. Pellentesque accumsan sodales risus.
+_**Letícia**_ is a PhD candidate at Department of Genetics of the
+University of São Paulo (ESALQ/USP).
 
-![marcelo]({{ site.url }}/images/bio-photo.jpg)
+![leticia]({{ site.url }}/images/Leticia.jpg)
 {: .image-pull-right}
 
-Donec vel auctor diam. Suspendisse non nibh vel neque tristique
-fermentum eget iaculis nulla. Mauris turpis erat, auctor eu lobortis
-id, feugiat in massa. Donec aliquet sagittis enim quis scelerisque.
-Vestibulum sed ultrices massa. Praesent vel urna blandit tortor tempus
-vehicula nec et eros. Pellentesque at consectetur odio, at porta ante.
-Suspendisse sem ante, consectetur quis sem eu, placerat egestas nibh.
-
-Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
-facilisi. Pellentesque bibendum felis nec lacus sollicitudin
-hendrerit.
+She has an undergraduate degree in Biology and Master degree in
+Genetics and Plant Breeding at Federal University of Lavras (UFLA).
+During undergraduate and master, she worked with molecular genetics
+focusing on identification of QTL for disease resistance in common
+bean. In her PhD, she is working with development of statistical
+methods applied to genomic selection in sugarcane. She has
+concentrated her studies in Quantitative Genetics, Computing for
+Statistical Genetics (especially in R software) and Mixed Models.
 
 
 ## MSc Students
