@@ -89,25 +89,27 @@ eucalyptus, such as plant transformation, field trials, biosafety
 studies and regulatory affairs with governmental organizations.
 
 
-#### Guilherme da Silva Pereira
+#### Guilherme da Silva Pereira (by himself)
 
-_**Guilherme**_ lorem ipsum dolor sit amet, test link
-adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-Pellentesque accumsan sodales risus.
+_**Guilherme**_ is a biologist, PhD student in Genetics and Plant
+Breeding, in the Department of Genetics at ESALQ/USP.
 
-![marcelo]({{ site.url }}/images/bio-photo.jpg)
+![guilherme]({{ site.url }}/images/Guilherme.jpg)
 {: .image-pull-right}
 
-Donec vel auctor diam. Suspendisse non nibh vel neque tristique
-fermentum eget iaculis nulla. Mauris turpis erat, auctor eu lobortis
-id, feugiat in massa. Donec aliquet sagittis enim quis scelerisque.
-Vestibulum sed ultrices massa. Praesent vel urna blandit tortor tempus
-vehicula nec et eros. Pellentesque at consectetur odio, at porta ante.
-Suspendisse sem ante, consectetur quis sem eu, placerat egestas nibh.
+Currently, he is working on comparative QTL mapping and genomic
+synteny between sweet sorghum and sugarcane (FAPESP grant number
+[12/25236-4](http://www.bv.fapesp.br/en/bolsas/142553/comparative-qtl-mapping-and-genomic-synteny-between-sweet-sorghum-and-sugarcane/)).
+Previous experiences include studies on reproductive biology, gene
+flow and genetic diversity in cotton, and GxE interaction and genetic
+mapping in
+[sweet passion fruit](http://www.teses.usp.br/teses/disponiveis/11/11137/tde-17032011-105123/en.php)
+and common bean. His main goal as a researcher is to contribute with
+crop breeding programs by using the appropriate tools in statistical
+genetics, bioinformatics and molecular biology. Detailed academic CV
+might be found [here](http://lattes.cnpq.br/2580756111835509) (only in
+Portuguese).
 
-Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
-facilisi. Pellentesque bibendum felis nec lacus sollicitudin
-hendrerit.
 
 #### João Ricardo Bachega Feijó Rosa (by himself)
 
