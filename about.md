@@ -6,7 +6,7 @@ tagline: What we are doing here
 tags: [about, statgen]
 modified: 11-6-2014
 image:
-  feature: LogoCentral.jpg
+  feature: LogoCentral.png
   thumb: LogoIconBlack.jpg
 
 ---
