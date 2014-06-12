@@ -5,9 +5,9 @@ url:              http://augusto-garcia.github.io/statgen-esalq
 
 # Owner/author information
 owner:
-  name:           Statistical Genetics
+  name:           Department of Genetics
   avatar:         LogoLab.jpg
-  bio:            "Department of Genetics, ESALQ/USP"
+  bio:            "ESALQ/USP"
   email:          aafgarci@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: aafgarci       
