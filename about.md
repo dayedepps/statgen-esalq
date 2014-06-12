@@ -4,11 +4,11 @@ permalink: /about/
 title: About the Lab
 tagline: What we are doing here
 tags: [about, statgen]
-modified: 2-3-2014
+modified: 11-6-2014
 image:
-  feature: esalq-statue.jpg
-  credit: augusto garcia
-  creditlink: http://augusto-garcia.github.io/
+  feature: LogoCentral.jpg
+  thumb: LogoIconBlack.jpg
+
 ---
 
 The Statistical Genetics Lab is hosted by Department of Genetics,
