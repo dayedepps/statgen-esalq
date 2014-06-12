@@ -2,11 +2,11 @@
 layout: page
 permalink: /about/
 title: About the Lab
-tagline: What we are doing here
+tagline: What we are doing
 tags: [about, statgen]
 modified: 11-6-2014
 image:
-  feature: LogoCentral.png
+  feature: LogoFundoLaranja.png
   thumb: LogoIconBlack.jpg
 
 ---
