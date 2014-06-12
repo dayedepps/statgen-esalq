@@ -6,9 +6,9 @@ description: "Description of everybody in the Lab at this time."
 modified: 2014-03-02
 tags: [people, undergrads, MSc, PhD, postdocs]
 image:
-  feature: esalq-main-building.jpg
-  credit: augusto garcia
-  creditlink: http://augusto-garcia.github.io/
+  feature: LogoFundoLaranja.jpg
+  thumb: LogoIconBlack.jpg
+
 ---
 
 #### Antonio Augusto Franco Garcia

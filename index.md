@@ -4,7 +4,7 @@ description: "Statistical Genetics Lab, hosted by Department of
 Genetics, ESALQ/USP."
 tags: [statgen]
 image:
-  feature: LogoFundoAzul.jpg
+  feature: LogoFundoTransp.jpg
   thumb: LogoIconBlack.jpg
 
 ---
