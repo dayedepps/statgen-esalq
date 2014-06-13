@@ -6,7 +6,7 @@ some clues for you."
 modified: 2014-03-02
 tags: [tips, introduction, tutorial]
 image:
-  feature: esalq-lake-engineering.jpg
+  feature: esalq-main-building.jpg
   credit: augusto garcia
   creditlink: http://augusto-garcia.github.io/
 ---
