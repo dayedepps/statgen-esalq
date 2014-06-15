@@ -25,5 +25,5 @@ CEP 13400-970
 
 Piracicaba, SP, Brazil
 
-email: contact Augusto Garcia: /*augusto dot garcia at usp dot br*/
+email: contact Augusto Garcia: *augusto dot garcia at usp dot br*
 
