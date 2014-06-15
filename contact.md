@@ -11,7 +11,6 @@ image:
 
 ---
 
-## Statistical Genetics Laboratory
 
 Departamento de Genética
 
