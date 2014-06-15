@@ -11,8 +11,7 @@ image:
 
 ---
 
-CONTACT US:
-
+CONTACT:\\
 Departamento de Genética\\
 Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ)\\
 Universidade de São Paulo (USP)\\
