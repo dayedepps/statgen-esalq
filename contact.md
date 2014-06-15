@@ -14,12 +14,17 @@ image:
 ## Statistical Genetics Laboratory
 
 Departamento de Genética
+
 Escola Superior de Agricultura "Luiz de Queiroz" (ESALQ)
+
 Universidade de São Paulo (USP)
+
 Avenida Pádua Dias, 11. CP 83.
+
 CEP 13400-970
+
 Piracicaba, SP, Brazil
 
-email: you can contact Augusto Garcia at augusto dot garcia at usp dot
-br.
+email: you can contact Augusto Garcia: /*_augusto dot garcia at usp dot
+br_*/
 
