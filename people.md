@@ -42,23 +42,24 @@ Emacs, LaTeX, and git, among many other software and tools.
 
 #### Marcelo Mollinari
 
-_**Marcelo**_ lorem ipsum dolor sit amet, test link adipiscing elit.
-Nullam dignissim convallis est. Quisque aliquam. Pellentesque accumsan
-sodales risus.
+_**Marcelo**_ has a PhD (2012) and MSc (2008) degree in Genetics and
+Plant Breeding from Department of Genetics, "Luiz de Queiroz" College
+of Agriculture, University of São Paulo, where he is currently a
+Postdoctoral Fellow.
 
-![marcelo]({{ site.url }}/images/bio-photo.jpg)
+![marcelo]({{ site.url }}/images/Marcelo.jpg)
 {: .image-pull-right}
 
-Donec vel auctor diam. Suspendisse non nibh vel neque tristique
-fermentum eget iaculis nulla. Mauris turpis erat, auctor eu lobortis
-id, feugiat in massa. Donec aliquet sagittis enim quis scelerisque.
-Vestibulum sed ultrices massa. Praesent vel urna blandit tortor tempus
-vehicula nec et eros. Pellentesque at consectetur odio, at porta ante.
-Suspendisse sem ante, consectetur quis sem eu, placerat egestas nibh.
+He graduated in Agronomic Engineering at the same institution (2005).
+Now, he is conducting his research as a Visiting Scholar at the
+Department of Statistics at Purdue University. He has experience in
+agronomy with emphasis in quantitative genetics and statistical
+genetics, mainly in genetic and QTL mapping. In the area of
+statistical genetics, he has developed work related to molecular
+markers and statistical computing applied to polyploid species. For
+more information about Marcelo, please visit
+http://about.me/marcelo.mollinari
 
-Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
-facilisi. Pellentesque bibendum felis nec lacus sollicitudin
-hendrerit.
 
 
 ## PhD Students
