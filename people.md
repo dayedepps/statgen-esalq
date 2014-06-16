@@ -58,7 +58,7 @@ genetics, mainly in genetic and QTL mapping. In the area of
 statistical genetics, he has developed work related to molecular
 markers and statistical computing applied to polyploid species. For
 more information about Marcelo, please visit
-http://about.me/marcelo.mollinari
+[http://about.me/marcelo.mollinari](http://about.me/marcelo.mollinari)
 
 
 
