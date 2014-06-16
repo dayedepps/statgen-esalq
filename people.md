@@ -256,22 +256,18 @@ tools and Molecular Analysis of data from high-throughput biology
 experiments.
 
 
-#### Rodrigo Rampazzo Amadeu
+#### Rodrigo Rampazo Amadeu (by himself)
 
-_**Rodrigo**_ lorem ipsum dolor sit amet,
-test link adipiscing elit. Nullam dignissim convallis est. Quisque
-aliquam. Pellentesque accumsan sodales risus.
+_**Rodrigo**_ Rodrigo is a 5th year undergraduate student of Agronomy
+at College of Agriculture "Luiz de Queiroz", University of São Paulo.
 
-![marcelo]({{ site.url }}/images/bio-photo.jpg)
+![marcelo]({{ site.url }}/images/Rodrigo.jpg)
 {: .image-pull-right}
 
-Donec vel auctor diam. Suspendisse non nibh vel neque tristique
-fermentum eget iaculis nulla. Mauris turpis erat, auctor eu lobortis
-id, feugiat in massa. Donec aliquet sagittis enim quis scelerisque.
-Vestibulum sed ultrices massa. Praesent vel urna blandit tortor tempus
-vehicula nec et eros. Pellentesque at consectetur odio, at porta ante.
-Suspendisse sem ante, consectetur quis sem eu, placerat egestas nibh.
-
-Etiam sit amet turpis tempor, malesuada lacus at, dapibus ipsum. Nulla
-facilisi. Pellentesque bibendum felis nec lacus sollicitudin
-hendrerit.
+Since freshman, he is intern in the Statistical Genetics Lab. He has
+worked with population structure analysis and developed Statistical
+Genetics softwares. Currently, he is an exchange student at University
+of Florida, USA, and also is intern in the Forage Breeding and
+Genomics Lab in the UF. In this period, he is developing a new package
+for construction of A and G matrices in autotetraploid crops (GS) and
+working with pedigree analysis (blueberry panel).
