@@ -258,8 +258,8 @@ experiments.
 
 #### Rodrigo Rampazo Amadeu (by himself)
 
-_**Rodrigo**_ Rodrigo is a 5th year undergraduate student of Agronomy
-at College of Agriculture "Luiz de Queiroz", University of São Paulo.
+_**Rodrigo**_ is a 5th year undergraduate student of Agronomy at
+College of Agriculture "Luiz de Queiroz", University of São Paulo.
 
 ![marcelo]({{ site.url }}/images/Rodrigo.jpg)
 {: .image-pull-right}
