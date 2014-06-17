@@ -40,7 +40,7 @@ Emacs, LaTeX, and git, among many other software and tools.
 
 ## Postdocs
 
-#### Marcelo Mollinari
+#### Marcelo Mollinari (by himself)
 
 _**Marcelo**_ has a PhD (2012) and MSc (2008) degree in Genetics and
 Plant Breeding from Department of Genetics, "Luiz de Queiroz" College
