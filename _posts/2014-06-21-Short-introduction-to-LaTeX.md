@@ -21,7 +21,8 @@ So, it is something that you **must learn**.
 
 How to start? I don't need to write a tutorial, since you can find
 very good ones on the internet. My personal preference is the Wikibook
-about LaTeX that you can find here: http://en.wikibooks.org/wiki/LaTeX
+about LaTeX that you can find here:
+[http://en.wikibooks.org/wiki/LaTeX] 
 
 Don't be lazy, go ahead and read it. There is a pdf version for
 printing and online reading. Although it has a steep learning curve,
