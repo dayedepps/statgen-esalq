@@ -42,15 +42,14 @@ help! That's what our Lab is about.
 * github
 * Emacs
 * LaTeX
-* jekyll
 
 Don't feel intimidated with this list! There are a number of good
 tutorials that we will recommend. We also have our own texts. In the
 future, you can share your experience by improving the tutorials you
 read.
 
-Everyone of these topics will have a separated on the Lab's website.
-Check there and start learning new things!
+All of these topics will have a post on the Lab's website. Go there
+and start learning!
 
 
 [^1]: Written by [augusto garcia](http://augusto-garcia.github.io/)
