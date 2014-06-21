@@ -29,7 +29,7 @@ printing and online reading. Although it has a steep learning curve,
 it is something that is so useful that every minute you will expend on
 learning it will certainly pay back.
 
-But before start reading the book, please install $\latex$ with all files
+But before start reading the book, please install LaTeX with all files
 and options. Go to your Linux terminal and type
 
 ```
