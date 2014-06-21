@@ -30,6 +30,7 @@ learning it will certainly pay back.
 
 But before start reading the book, please install it with all files
 and options. Go to your Linux terminal and type
+
 ```
 sudo apt-get install texlive-full
 ```
