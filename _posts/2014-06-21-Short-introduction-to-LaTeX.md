@@ -39,6 +39,15 @@ sudo apt-get install texlive-full
 It will take sometime, but everything will be installed and ready to
 use. 
 
+It is not a coincidence that I chose this title for the post. There is
+very famous LaTeX tutorial named
+[The not so Short Introduction to LaTeX](http://www.ctan.org/tex-archive/info/lshort/english/).
+You could also decide to read it.
+
+If you still think that other text editors are better than LaTeX, that
+is too complicated, read
+[The Beauty of LaTeX](http://nitens.org/taraborelli/latex).
+
 Good luck! Remember, we are here to help, but do your homework first. 
 
 [^1]: Written by [augusto garcia](http://augusto-garcia.github.io/)
