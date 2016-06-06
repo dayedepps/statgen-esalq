@@ -3,7 +3,7 @@ layout: page
 permalink: /people/
 title: People
 description: "Description of everybody in the Lab at this time."
-modified: 2014-03-02
+modified: 2016-06-04
 tags: [people, undergrads, MSc, PhD, postdocs]
 image:
   feature: LogoFundoLaranja.jpg
@@ -40,82 +40,8 @@ Emacs, LaTeX, and git, among many other software and tools.
 
 ## Postdocs
 
-#### Marcelo Mollinari (by himself)
-
-_**Marcelo**_ has a PhD (2012) and MSc (2008) degree in Genetics and
-Plant Breeding from Department of Genetics, "Luiz de Queiroz" College
-of Agriculture, University of São Paulo, where he is currently a
-Postdoctoral Fellow.
-
-![marcelo]({{ site.url }}/images/Marcelo.jpg)
-{: .image-pull-right}
-
-He graduated in Agronomic Engineering at the same institution (2005).
-Now, he is conducting his research as a Visiting Scholar at the
-Department of Statistics at Purdue University. He has experience in
-agronomy with emphasis in quantitative genetics and statistical
-genetics, mainly in genetic and QTL mapping. In the area of
-statistical genetics, he has developed work related to molecular
-markers and statistical computing applied to polyploid species. For
-more information about Marcelo, please visit
-[http://about.me/marcelo.mollinari](http://about.me/marcelo.mollinari)
-
-
-
-## PhD Students
-
-#### Adriana Cheavegatti Gianotto (by herself)
-
-_**Adriana**_ is an Agronomist by Federal University of Viçosa. She
-started her career while still undergraduate student working at
-BIOAGRO at the Plant-Pathogen Genetic Interaction Laboratory. During
-her Master Degree at the Genetics Department of the same University,
-she mapped a chromosome region of the tomato genome related to
-geminiviruses resistance, for further positional cloning of a major
-gene (Ty-1).
-
-![adriana]({{ site.url }}/images/Adriana.jpg)
-{: .image-pull-right}
-
-Currently, she is engaged at her PhD at Department of Genetics (Luiz
-de Queiroz College of Agriculture, University of São Paulo). She is
-evaluating the use of Structural Equation Models to map QTL
-controlling a set of correlated traits of root morphology and
-phosphorus acquisition in maize. In addition, she has also worked for
-many years in research programs of Biotech Companies such as Alellyx
-and Canavialis, which were latter acquired by Monsanto. During this
-period, she had the opportunity to work at different phases of
-development of genetically modified cultivars of sugarcane, citrus and
-eucalyptus, such as plant transformation, field trials, biosafety
-studies and regulatory affairs with governmental organizations.
-
-
-#### Guilherme da Silva Pereira (by himself)
-
-_**Guilherme**_ is a biologist, PhD student in Genetics and Plant
-Breeding, in the Department of Genetics at ESALQ/USP.
-
-![guilherme]({{ site.url }}/images/Guilherme.jpg)
-{: .image-pull-right}
-
-Currently, he is working on comparative QTL mapping and genomic
-synteny between sweet sorghum and sugarcane (FAPESP grant number
-[12/25236-4](http://www.bv.fapesp.br/en/bolsas/142553/comparative-qtl-mapping-and-genomic-synteny-between-sweet-sorghum-and-sugarcane/)).
-Previous experiences include studies on reproductive biology, gene
-flow and genetic diversity in cotton, and GxE interaction and genetic
-mapping in
-[sweet passion fruit](http://www.teses.usp.br/teses/disponiveis/11/11137/tde-17032011-105123/en.php)
-and common bean. His main goal as a researcher is to contribute with
-crop breeding programs by using the appropriate tools in statistical
-genetics, bioinformatics and molecular biology. Detailed academic CV
-might be found [here](http://lattes.cnpq.br/2580756111835509) (only in
-Portuguese).
-
-
 #### João Ricardo Bachega Feijó Rosa (by himself)
-
-_**João Ricardo**_ has an undergraduate degree in Agronomy and is a
-PhD Candidate in Genetics and Plant Breeding at Luiz de Queiroz
+_**João Ricardo**_ has an undergraduate degree in Agronomy, has MSc (2012) and PhD (2016) in Genetics and Plant Breeding at "Luiz de Queiroz"
 College of Agriculture, University of São Paulo.
 
 ![joaoricardo]({{ site.url }}/images/JoaoRicardo.jpg)
@@ -129,52 +55,56 @@ of the University of São Paulo, João was interested to investigate the
 patterns of linkage disequilibrium and population structure on a
 Brazilian collection of sugarcane genotypes, a group of historically
 important accessions to Brazilian germplasm. His principal interest
-while a PhD Candidate is to use coalescent theory and population
+while a PhD Candidate was to use coalescent theory and population
 genetics concepts to understand the linkage disequilibrium and the
 evolutionary past of an important panel of accessions of Sorghum using
 next generation sequencing (SNPs from Genotyping-By-Sequencing).
 Furthermore, João is also involved into genome-wide association
 studies in Sorghum and collaborative projects of linkage analysis and
 association mapping of other very important crops for Brazil, such as
-common bean, cacao and passion fruit.
+common bean, cacao and passion fruit. For more information about João, please visit his [Lattes CV](http://lattes.cnpq.br/2084381270708398)
 
+## PhD Students
 
-#### Carina de Oliveira Anoni (by herself)
+#### Jhonathan Pedroso Rigal dos Santos (by himself)
 
-_**Carina**_ is a PhD Candidate at the Department of Genetics. She is
-an Agronomist and has a Master Degree in Genetics and Plant Breeding.
+_**Jhonathan**_ is is an Agronomist (Maringá State University), Master in Genetics and Plant Breeding (Federal University of Lavras) PhD candidate at Department of Genetics of the
+University of São Paulo (ESALQ/USP)
 
-![carina]({{ site.url }}/images/carina.jpg)
+![Jhonathan]({{ site.url }}/images/Jhonathan.jpg)
 {: .image-pull-right}
 
-In her PhD, she is developing methods of quantitative genetics that
-can be applied to phenotypic data, QTL mapping and genetic linkage
-maps. The goal of Carina's research is to use statistical methods in
-order to have a better understanding the genetic basis of quantitative
-traits. Currently, she works on the development of new methodologies for
-association mapping in polyploids, focusing on sugarcane.
+He has experience with maize breeding (intern at Monsanto), development of  genetic mixed models and application of Genomic Selection to maize breeding (Federal University of Lavras). Nowadays, he is developing and evaluating Bayesian genetic models using a model-based machine learning approach via Bayesian Networks to analyse phenotypic data from sorghum growth traits collected through time (temporal series) coupled with functional-genome sequencing information (Colaboration, Cornell University - Prof. Dr. Michael Gore). He is interested in quantative genetics, genomic selection, Bayesian models and probabilistic programming (Stan, PyMC3, JAGS, Infer.NET) tools.
 
-More information: [Lattes CV](http://goo.gl/cRriNL)
+
+#### Letícia Aparecida de Castro Lara (by herself)
+
+_**Letícia**_ is a PhD candidate at Department of Genetics of the
+University of São Paulo (ESALQ/USP).
+
+![leticia]({{ site.url }}/images/Leticia.jpg)
+{: .image-pull-right}
+
+She has an undergraduate degree in Biology and Master degree in
+Genetics and Plant Breeding at Federal University of Lavras (UFLA).
+During undergraduate and master, she worked with molecular genetics
+focusing on identification of QTL for disease resistance in common
+bean. In her PhD, she is working with development of statistical
+methods applied to genomic selection in sugarcane. She has
+concentrated her studies in Quantitative Genetics, Computing for
+Statistical Genetics (especially in R software) and Mixed Models.
 
 #### Luís Felipe Ventorim Ferrão (by himself)
 
-_**Felipe**_ is a biologist and a PhD student of the Department of
-Genetics, University of São Paulo (ESALQ/USP). 
+_**Felipe**_ is Biologist and a PhD Candidate in Graduate Program of  Genetics and Plant Breeding (FAPESP grant number 2014/20389-2), University of São Paulo (ESALQ/USP). 
 
 ![felipe]({{ site.url }}/images/felipe.jpg)
 {: .image-pull-right}
 
-His current research project involves the development of statistical
-methods for genomic prediction in genomic selection. He is working
-with molecular data (SNPs) originated by techniques of next generation
-sequencing, like GBS (Genotyping by sequencing). He has concentrated
-his studies in Computing for Statistical Genetics (especially in _R
-software_), mixed models and, more recently, Bayesian approaches.
-Furthermore, during the graduation and masters, he participated in
-studies of genetic diversity, development and validation of EST-SSR
-markers and QTL mapping. Most of his studies are focused on Coffea
-canephora, which is one of the coffee species most consumed in the
-world.
+His research focuses on the application and development of statistical methods of both computational and statistical tools for genomic prediction. His studies has been concentrated in Computing for Statistical Genetics (especially in R software), mixed models and, more recently, Bayesian approaches. ast research experiences include  genetic diversity studies, development and validation of molecular markers and QTL mapping. Most of his studies are applied in Coffea canephora, one of the coffee species most consumed in the world. 
+
+Currently, he is finishing the PhD studies as visiting student at the University of Chicago (FAPESP Research Internship Abroad), working under supervision of [Matthew Stephens](http://stephenslab.uchicago.edu/). For more information about Felipe, please visit his [Lattes CV](http://lattes.cnpq.br/6407723072644101)
+
 
 
 #### Marianella Fernanda Quezada Macchiavello (by herself)
@@ -198,26 +128,18 @@ architecture of genetic quantitative traits loci through linkage and
 QTL mapping using next generation sequence data (GBS). Her research is
 focused in emerging fruits crops, like Acca sellowiana.
 
+## MSc Students
 
-#### Letícia Aparecida de Castro Lara (by herself)
+#### Cristiane Hayumi Taniguti (by herself)
 
-_**Letícia**_ is a PhD candidate at Department of Genetics of the
-University of São Paulo (ESALQ/USP).
+_**Cristiane**_ 
+Cristiane is a Master Student in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). She has an undergraduate degree in Biotechnology by Federal University of São Carlos (UFSCar).
 
-![leticia]({{ site.url }}/images/Leticia.jpg)
+![cristiane]({{ site.url }}/images/Cristiane.jpg)
 {: .image-pull-right}
 
-She has an undergraduate degree in Biology and Master degree in
-Genetics and Plant Breeding at Federal University of Lavras (UFLA).
-During undergraduate and master, she worked with molecular genetics
-focusing on identification of QTL for disease resistance in common
-bean. In her PhD, she is working with development of statistical
-methods applied to genomic selection in sugarcane. She has
-concentrated her studies in Quantitative Genetics, Computing for
-Statistical Genetics (especially in R software) and Mixed Models.
+She has interests in study computational tools and statistical methods for plant breeding related with molecular biology and quantitative genetics. Currently, her research involves study of genetic architecture of quantitative traits in outcrossing species by linkage map and QTLs mapping using SNP markers, focusing in eucalypts. Her project has partnership with the enterprise Suzano. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836).
 
-
-## MSc Students
 
 #### Danilo Eduardo Cursi (by himself)
 
@@ -237,38 +159,30 @@ stage. Furthermore, he is developing a new genetic value system
 individuals should be selected as parent for crossing and which ones
 should be selected for commercial production.
 
+#### Matheus Dalsente Krause (by himself)
 
-## Undergraduated students
+_**Matheus**_ is an Agricultural Technician (La Salle Agro), an Agronomist (State University of Londrina), and a Master's Student in Genetics and Plant Breeding of the University of São Paulo (ESALQ/USP). 
 
-#### Maria Izabel Cavassim Alves (by herself)
-
-_**Maria Izabel**_ is an undergraduate student of the 4th year of
-Agronomy in the College of Agriculture "Luiz de Queiroz" - USP.
-
-![MariaIzabel]({{ site.url }}/images/MariaIzabel.jpg)
+![matheus]({{ site.url }}/images/Matheus.jpg)
 {: .image-pull-right}
 
-Currently doing internship in the Department of Genetics (ESALQ,
-University of São Paulo) under the guidance of Professor A. Augusto F.
-Garcia, with a focus on understanding population genetics using a
-Bayesian approach. She is now taking courses at KTH-Royal Institute of
-Technology (Stockholm- Sweden) with a focus on learning bioinformatics
-tools and Molecular Analysis of data from high-throughput biology
-experiments.
+During his undergraduate, he made four years of internship at Laboratory of Maize Breeding, working in classical breeding as development of inbred lines, hybrids, synthetic populations, sweet maize breeding and Doubled-Haploid technology. In addition, he did the specialization (European Master Degree) “Plant Breeding & Engineering for Mediterranean and Tropical Areas” as an exchange student (BRAFAGRI program, 2013-2014) at SupAgro, in Montpellier/France. For more information about Matheus, please visit his [Lattes CV](http://lattes.cnpq.br/3199344976521959).
 
 
 #### Rodrigo Rampazo Amadeu (by himself)
 
-_**Rodrigo**_ is a 5th year undergraduate student of Agronomy at
-College of Agriculture "Luiz de Queiroz", University of São Paulo.
+_**Rodrigo**_ is an Agronomist and a Master Student (MSc) in Genetics
+and Plant Breeding of the Department of Genetics, University of São
+Paulo (ESALQ/USP).
 
-![marcelo]({{ site.url }}/images/Rodrigo.jpg)
+![rodrigo]({{ site.url }}/images/Rodrigo.jpg)
 {: .image-pull-right}
 
-Since freshman, he is intern in the Statistical Genetics Lab. He has
+He was intern in the Statistical Genetics Lab during all his undergrad course. He has
 worked with population structure analysis and developed Statistical
-Genetics softwares. Currently, he is an exchange student at University
-of Florida, USA, and also is intern in the Forage Breeding and
-Genomics Lab in the UF. In this period, he is developing a new package
-for construction of A and G matrices in autotetraploid crops (GS) and
-working with pedigree analysis (blueberry panel).
+Genetics softwares. As undergrad, he made a sandwich period at University
+of Florida, USA. In this period, he was intern at Forage Breeding and Genome Lab (Prof Patricio Munoz`s Lab) and developed a [software](https://github.com/prmunoz/AGHmatrix) for construction of A and G matrices in autotetraploid crops (GS). His currently work is to expand these methods to n-ploidy. For more information about Rodrigo, please visit his [Lattes CV](http://lattes.cnpq.br/3199344976521959).
+
+## Undergraduated students
+
+Currently we do not have any undergrad, join us!
