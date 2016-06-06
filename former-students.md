@@ -3,13 +3,38 @@ layout: page
 permalink: /former-students/
 title: Former Students
 description: "People that was trained in our group."
-modified: 2014-06-15
+modified: 2016-06-04
 tags: [people, undergrads, MSc, PhD, postdocs]
 image:
   feature: esalq-main-building-vintage.jpg
   credit: augusto garcia's grandfather
   creditlink: http://augusto-garcia.github.io/
 ---
+
+#### Carina de Oliveira Anoni
+
+_**Carina**_ is an Agronomist, has a PhD (2016) and Msc (2012) degree in Genetics and Plant Breeding from Department of Genetics at ESALQ/USP. Now she is working at Monsanto. For more information about Carina, please visit her [Lattes CV](http://goo.gl/cRriNL).
+
+#### Guilherme da Silva Pereira
+
+_**Guilherme**_ is a Biologist, has a PhD (2015) and MSc (2011) degree in Genetics and Plant Breeding from Department of Genetics at ESALQ/USP. Since 2015, he is postdoctoral research scholar at Bioinformatics Research Center, North Carolina State University, Raleigh, USA. For
+more information about Guilherme, please visit his
+[webpage](https://about.me/guispereira).
+
+#### Marcelo Mollinari (by himself)
+
+_**Marcelo**_ has PhD (2012) and MSc (2008) degree in Genetics and Plant Breeding from Department of Genetics, "Luiz de Queiroz" College of Agriculture, University of São Paulo, where he was also a Postdoctoral Fellow during 2013 and 2015. He graduated in Agronomic Engineering at the same institution (2005). During 2014 he conducted his research as a Visiting Scholar at the Department of Statistics at Purdue University. Currently, Marcelo is a Postdoctoral fellow in the Prof. Zhao-Bang Zeng's group in the Bioinformatics Research Center at the Department of Statistics at North Carolina State University. He has experience in agronomy with emphasis in quantitative genetics and statistical genetics, mainly in genetic and QTL mapping. In the area of statistical genetics, he has developed work related to molecular markers and statistical computing applied to polyploid species. For more information about Marcelo, please visit
+[webpage](http://www4.ncsu.edu/~mmollin/) .
+
+#### Maria Izabel Cavassim Alves (by herself)
+
+_**Maria Izabel**_ is an Agronomist and was an intern in our group. Currently she is a master student in Bioinformatics at Aarhus University (Denmark) (birc.au.uk). She has been taken courses related to Population genetics, Computer Science and Statistics. The integration of interdisciplinary fields is what motivates her. Currently she is involved in the 'NCHAIN project'
+which aims to study the interactions of Rhizobium and Clover within the nitrogen-chain in order to increase the amount of nitrogen fixed per hectare of organic clover. The path towards this goal goes 
+through systematic examination of the phenotypic relationship between the yield of clover-grass crops and comprehension of the genetic architecture behind the interactions (intra- and interspecific). For more information about Maria Izabel, please visit her [linkedin](https://www.linkedin.com/in/izabelcavassim).
+
+#### Adriana Cheavegatti Gianotto
+
+_**Adriana**_ is an agronomist and finished his PhD in 2015. In 2015, she was a postdoctoral researcher at CTBE/CNPEM and is currently working at CTC.
 
 #### Rodrigo Gazaffi
 
@@ -19,8 +44,7 @@ Universidade Federal de São Carlos.
 
 #### Thiago Gibbin Marconi
 
-Thiago was a postodoc in the group, and now is a postdoc at Texas
-University.
+Thiago was a postodoc in the group, and now he is Research Associate Scientist at Texas A&M Agrilife Research (Weslaco,TX) working with molecular breeding and marker-assisted selection mainly in tomato and spinach crops. He also works with genetics of plant-insect interations.
 
 #### Luciano da Costa e Silva
 
@@ -38,8 +62,8 @@ Canavieira (CTC).
 
 #### Renato Rodrigues Silva
 
-Renato finished his PhD in 2013 and works now as a post-doc at
-Wisconsin University (USA).
+Renato finished his PhD in 2013 and was a post-doc at
+University of Wisconsin-Madison (USA). He is now a faculty at Instituto de Matemática e Estatística fof Universidade Federal de Goiás.
 
 #### Maria Marta Pastina
 
