@@ -3,7 +3,7 @@ layout: page
 permalink: /people/
 title: People
 description: "Description of everybody in the Lab at this time."
-modified: 2016-06-04
+modified: 2016-06-07
 tags: [people, undergrads, MSc, PhD, postdocs]
 image:
   feature: LogoFundoLaranja.jpg
@@ -166,7 +166,7 @@ _**Matheus**_ is an Agricultural Technician (La Salle Agro), an Agronomist (Stat
 ![matheus]({{ site.url }}/images/Matheus.jpg)
 {: .image-pull-right}
 
-During his undergraduate, he made four years of internship at Laboratory of Maize Breeding, working in classical breeding as development of inbred lines, hybrids, synthetic populations, sweet maize breeding and Doubled-Haploid technology. In addition, he did the specialization (European Master Degree) “Plant Breeding & Engineering for Mediterranean and Tropical Areas” as an exchange student (BRAFAGRI program, 2013-2014) at SupAgro, in Montpellier/France. For more information about Matheus, please visit his [Lattes CV](http://lattes.cnpq.br/3199344976521959).
+During his undergraduate, he had a four-year internship at Laboratory of Maize Breeding, working in classical breeding as development of inbred lines, hybrids, synthetic populations, sweet maize breeding and Doubled-Haploid technology. In addition, he did the specialization (European Master Degree) “Plant Breeding & Engineering for Mediterranean and Tropical Areas” as an exchange student (BRAFAGRI program, 2013-2014) at SupAgro, in Montpellier/France. For more information about Matheus, please visit his [Lattes CV](http://lattes.cnpq.br/3199344976521959).
 
 
 #### Rodrigo Rampazo Amadeu (by himself)
