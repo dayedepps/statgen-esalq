@@ -9,7 +9,7 @@ image:
   creditlink: http://augusto-garcia.github.io/
 ---
 
-*Written by [Cristiane Hayumi Tanigushi and Letícia Aparecida de Castro Lara](http://augusto-garcia.github.io/statgen-esalq/people/)*
+*Written by [Cristiane Hayumi Taniguti and Letícia Aparecida de Castro Lara](http://augusto-garcia.github.io/statgen-esalq/people/)*
 
 -   [Download the necessary tutorial files](#download-the-necessary-tutorial-files)
 -   [Understanding R files](#understanding-r-files)
