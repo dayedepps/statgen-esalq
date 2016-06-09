@@ -9,7 +9,7 @@ image:
   creditlink: http://augusto-garcia.github.io/
 ---
 
-*Written by [Cristiane Hayumi Tanigushi, Letícia Aparecida de Castro Lara, and Rodrigo Rampazo Amadeu](http://augusto-garcia.github.io/statgen-esalq/people/)*
+*Written by [Cristiane Hayumi Taniguti, Letícia Aparecida de Castro Lara, and Rodrigo Rampazo Amadeu](http://augusto-garcia.github.io/statgen-esalq/people/)*
 
 -   [Hapmap](#hapmap)
 -   [VCF](#vcf)
