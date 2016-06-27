@@ -59,6 +59,7 @@ timezone:    America/Sao_Paulo
 future:      true
 pygments:    true
 markdown:    kramdown
+highlighter: rouge
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
