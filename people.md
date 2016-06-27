@@ -3,7 +3,7 @@ layout: page
 permalink: /people/
 title: People
 description: "Description of everybody in the Lab at this time."
-modified: 2016-06-04
+modified: 2016-06-07
 tags: [people, undergrads, MSc, PhD, postdocs]
 image:
   feature: LogoFundoLaranja.jpg
@@ -71,6 +71,7 @@ _**Jhonathan**_ is is an Agronomist (Maringá State University), Master in Genet
 
 He has experience with maize breeding (intern at Monsanto), development of  genetic mixed models and application of Genomic Selection to maize breeding (Federal University of Lavras). Nowadays, he is developing and evaluating Bayesian genetic models using a model-based machine learning approach via Bayesian Networks to analyse phenotypic data from sorghum growth traits collected through time (temporal series) coupled with functional-genome sequencing information (Colaboration, Cornell University - Prof. Dr. Michael Gore). He is interested in quantative genetics, genomic selection, Bayesian models and probabilistic programming (Stan, PyMC3, JAGS, Infer.NET) tools.
 
+---
 
 #### Letícia Aparecida de Castro Lara (by herself)
 
@@ -98,8 +99,7 @@ Currently, he is finishing the PhD studies as visiting student at the University
 
 _**Marianella**_ is a PhD student in Genetics and Plant Breeding at
 Luiz de Queiroz College of Agriculture, University of São Paulo. She
-is a Biologist and has a Master Degree in Agriculture Sciences
-(Universidad de la República-UdelaR, Uruguay). <img src="{{ site.url }}/images/Marianella.jpg" height="120">{: .image-pull-right}
+is a Biologist and has a Master Degree in Agriculture Sciences (Universidad de la República-UdelaR, Uruguay). <img src="{{ site.url }}/images/Marianella.jpg" height="120">{: .image-pull-right}
 
 Additionally, she is an Assistant Professor in the Department of Plant
 Biology, Faculty of Agronomy, UdelaR. Her interests and objectives
@@ -124,7 +124,7 @@ She has interests in study computational tools and statistical methods for plant
 
 _**Matheus**_ is an Agricultural Technician (La Salle Agro), an Agronomist (State University of Londrina), and a Master's Student in Genetics and Plant Breeding of the University of São Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Matheus.jpg" height="120">{: .image-pull-right}
 
-During his undergraduate, he made four years of internship at Laboratory of Maize Breeding, working in classical breeding as development of inbred lines, hybrids, synthetic populations, sweet maize breeding and Doubled-Haploid technology. In addition, he did the specialization (European Master Degree) “Plant Breeding & Engineering for Mediterranean and Tropical Areas” as an exchange student (BRAFAGRI program, 2013-2014) at SupAgro, in Montpellier/France. For more information about Matheus, please visit his [Lattes CV](http://lattes.cnpq.br/3199344976521959).
+During his undergraduate, he had a four-year internship at Laboratory of Maize Breeding, working in classical breeding as development of inbred lines, hybrids, synthetic populations, sweet maize breeding and Doubled-Haploid technology. In addition, he did the specialization (European Master Degree) “Plant Breeding & Engineering for Mediterranean and Tropical Areas” as an exchange student (BRAFAGRI program, 2013-2014) at SupAgro, in Montpellier/France. For more information about Matheus, please visit his [Lattes CV](http://lattes.cnpq.br/3199344976521959).
 
 
 #### Rodrigo Rampazo Amadeu (by himself)
