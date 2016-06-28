@@ -76,6 +76,7 @@ University of São Paulo (ESALQ/USP)
 
 He has experience with maize breeding (intern at Monsanto), development of  genetic mixed models and application of Genomic Selection to maize breeding (Federal University of Lavras). Nowadays, he is developing and evaluating Bayesian genetic models using a model-based machine learning approach via Bayesian Networks to analyse phenotypic data from sorghum growth traits collected through time (temporal series) coupled with functional-genome sequencing information (Colaboration, Cornell University - Prof. Dr. Michael Gore). He is interested in quantative genetics, genomic selection, Bayesian models and probabilistic programming (Stan, PyMC3, JAGS, Infer.NET) tools.
 
+---
 
 #### Letícia Aparecida de Castro Lara (by herself)
 
@@ -94,6 +95,8 @@ methods applied to genomic selection in sugarcane. She has
 concentrated her studies in Quantitative Genetics, Computing for
 Statistical Genetics (especially in R software) and Mixed Models.
 
+---
+
 #### Luís Felipe Ventorim Ferrão (by himself)
 
 _**Felipe**_ is Biologist and a PhD Candidate in Graduate Program of  Genetics and Plant Breeding (FAPESP grant number 2014/20389-2), University of São Paulo (ESALQ/USP). 
@@ -105,7 +108,7 @@ His research focuses on the application and development of statistical methods o
 
 Currently, he is finishing the PhD studies as visiting student at the University of Chicago (FAPESP Research Internship Abroad), working under supervision of [Matthew Stephens](http://stephenslab.uchicago.edu/). For more information about Felipe, please visit his [Lattes CV](http://lattes.cnpq.br/6407723072644101)
 
-
+---
 
 #### Marianella Fernanda Quezada Macchiavello (by herself)
 
