@@ -44,7 +44,7 @@ Emacs, LaTeX, and git, among many other software and tools.
 _**João Ricardo**_ has an undergraduate degree in Agronomy, has MSc (2012) and PhD (2016) in Genetics and Plant Breeding at "Luiz de Queiroz"
 College of Agriculture, University of São Paulo.
 
-![joaoricardo]({{ site.url }}/images/JoaoRicardo.jpg =x190)
+![joaoricardo]({{ site.url }}/images/JoaoRicardo.jpg)
 {: .image-pull-right}
 
 He initiated his career as a sugarcane breeder at Federal University
@@ -71,7 +71,7 @@ common bean, cacao and passion fruit. For more information about João, please v
 _**Jhonathan**_ is is an Agronomist (Maringá State University), Master in Genetics and Plant Breeding (Federal University of Lavras) PhD candidate at Department of Genetics of the
 University of São Paulo (ESALQ/USP)
 
-![Jhonathan]({{ site.url }}/images/Jhonathan.jpg =x190)
+![Jhonathan]({{ site.url }}/images/Jhonathan.jpg)
 {: .image-pull-right}
 
 He has experience with maize breeding (intern at Monsanto), development of  genetic mixed models and application of Genomic Selection to maize breeding (Federal University of Lavras). Nowadays, he is developing and evaluating Bayesian genetic models using a model-based machine learning approach via Bayesian Networks to analyse phenotypic data from sorghum growth traits collected through time (temporal series) coupled with functional-genome sequencing information (Colaboration, Cornell University - Prof. Dr. Michael Gore). He is interested in quantative genetics, genomic selection, Bayesian models and probabilistic programming (Stan, PyMC3, JAGS, Infer.NET) tools.
@@ -95,8 +95,6 @@ methods applied to genomic selection in sugarcane. She has
 concentrated her studies in Quantitative Genetics, Computing for
 Statistical Genetics (especially in R software) and Mixed Models.
 
----
-
 #### Luís Felipe Ventorim Ferrão (by himself)
 
 _**Felipe**_ is Biologist and a PhD Candidate in Graduate Program of  Genetics and Plant Breeding (FAPESP grant number 2014/20389-2), University of São Paulo (ESALQ/USP). 
@@ -108,7 +106,6 @@ His research focuses on the application and development of statistical methods o
 
 Currently, he is finishing the PhD studies as visiting student at the University of Chicago (FAPESP Research Internship Abroad), working under supervision of [Matthew Stephens](http://stephenslab.uchicago.edu/). For more information about Felipe, please visit his [Lattes CV](http://lattes.cnpq.br/6407723072644101)
 
----
 
 #### Marianella Fernanda Quezada Macchiavello (by herself)
 
@@ -117,7 +114,7 @@ Luiz de Queiroz College of Agriculture, University of São Paulo. She
 is a Biologist and has a Master Degree in Agriculture Sciences
 (Universidad de la República-UdelaR, Uruguay).
 
-![marianella]({{ site.url }}/images/Marianella.jpg =x190)
+![marianella]({{ site.url }}/images/Marianella.jpg)
 {: .image-pull-right}
 
 Additionally, she is an Assistant Professor in the Department of Plant
@@ -137,10 +134,8 @@ focused in emerging fruits crops, like Acca sellowiana.
 _**Cristiane**_ 
 Cristiane is a Master Student in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). She has an undergraduate degree in Biotechnology by Federal University of São Carlos (UFSCar).
 
-![cristiane]({{ site.url }}/images/Cristiane.jpg =x190)
+![cristiane]({{ site.url }}/images/Cristiane.jpg)
 {: .image-pull-right}
-
-
 
 She has interests in study computational tools and statistical methods for plant breeding related with molecular biology and quantitative genetics. Currently, her research involves study of genetic architecture of quantitative traits in outcrossing species by linkage map and QTLs mapping using SNP markers, focusing in eucalypts. Her project has partnership with the enterprise Suzano. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836).
 
@@ -149,7 +144,7 @@ She has interests in study computational tools and statistical methods for plant
 
 _**Matheus**_ is an Agricultural Technician (La Salle Agro), an Agronomist (State University of Londrina), and a Master's Student in Genetics and Plant Breeding of the University of São Paulo (ESALQ/USP). 
 
-![matheus]({{ site.url }}/images/Matheus.jpg =x190)
+![matheus]({{ site.url }}/images/Matheus.jpg)
 {: .image-pull-right}
 
 During his undergraduate, he had a four-year internship at Laboratory of Maize Breeding, working in classical breeding as development of inbred lines, hybrids, synthetic populations, sweet maize breeding and Doubled-Haploid technology. In addition, he did the specialization (European Master Degree) “Plant Breeding & Engineering for Mediterranean and Tropical Areas” as an exchange student (BRAFAGRI program, 2013-2014) at SupAgro, in Montpellier/France. For more information about Matheus, please visit his [Lattes CV](http://lattes.cnpq.br/3199344976521959).
@@ -161,7 +156,7 @@ _**Rodrigo**_ is an Agronomist and a Master Student (MSc) in Genetics
 and Plant Breeding of the Department of Genetics, University of São
 Paulo (ESALQ/USP).
 
-![rodrigo]({{ site.url }}/images/Rodrigo.jpg =x190)
+![rodrigo]({{ site.url }}/images/Rodrigo.jpg)
 {: .image-pull-right}
 
 He was intern in the Statistical Genetics Lab during all his undergrad course. He has
