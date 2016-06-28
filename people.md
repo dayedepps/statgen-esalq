@@ -83,7 +83,7 @@ He has experience with maize breeding (intern at Monsanto), development of  gene
 _**Letícia**_ is a PhD candidate at Department of Genetics of the
 University of São Paulo (ESALQ/USP).
 
-![leticia]({{ site.url }}/images/Leticia.jpg =x190)
+![leticia]({{ site.url }}/images/Leticia.jpg)
 {: .image-pull-right}
 
 She has an undergraduate degree in Biology and Master degree in
