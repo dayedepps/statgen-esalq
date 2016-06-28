@@ -141,24 +141,6 @@ Cristiane is a Master Student in Genetics and Plant Breeding at "Luiz de Queiroz
 She has interests in study computational tools and statistical methods for plant breeding related with molecular biology and quantitative genetics. Currently, her research involves study of genetic architecture of quantitative traits in outcrossing species by linkage map and QTLs mapping using SNP markers, focusing in eucalypts. Her project has partnership with the enterprise Suzano. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836).
 
 
-#### Danilo Eduardo Cursi (by himself)
-
-_**Danilo**_ is an Agronomist and a Master Student (MSc) in Genetics
-and Plant Breeding of the Department of Genetics, University of São
-Paulo (ESALQ/USP).
-
-![danilo]({{ site.url }}/images/Danilo.jpg)
-{: .image-pull-right}
-
-In addition, he is part of the research team in the sugarcane breeding
-program of RIDESA/UFSCar. Currently, he is focusing his studies in
-analyzing how much genetic gain a sugarcane breeding institution can
-have adopting different selection strategies at early (seedlings)
-stage. Furthermore, he is developing a new genetic value system
-(selection index) to provide information to breeders about which
-individuals should be selected as parent for crossing and which ones
-should be selected for commercial production.
-
 #### Matheus Dalsente Krause (by himself)
 
 _**Matheus**_ is an Agricultural Technician (La Salle Agro), an Agronomist (State University of Londrina), and a Master's Student in Genetics and Plant Breeding of the University of São Paulo (ESALQ/USP). 
