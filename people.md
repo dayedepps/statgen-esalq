@@ -117,7 +117,7 @@ focused in emerging fruits crops, like Acca sellowiana.
 
 _**Cristiane**_  is a Master Student in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). She has an undergraduate degree in Biotechnology by Federal University of São Carlos (UFSCar). <img src="{{ site.url }}/images/Cristiane.jpg" width="100">{: .image-pull-right}
 
-She has interests in study computational tools and statistical methods for plant breeding related with molecular biology and quantitative genetics. Currently, her research involves study of genetic architecture of quantitative traits in outcrossing species by linkage map and QTLs mapping using SNP markers, focusing in eucalypts. Her project has partnership with the enterprise Suzano. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836).
+She has interest in study computational tools and statistical methods for plant breeding related with molecular biology and quantitative genetics. Currently, her research involves the study of genetic architecture of quantitative traits in outcrossing species by linkage map and QTLs mapping using SNP markers, focusing in eucalypts. Her project has partnership with the enterprise Suzano. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836).
 
 
 #### Matheus Dalsente Krause (by himself)
@@ -136,7 +136,7 @@ Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Rodrigo.jpg" height="120">{: 
 He was intern in the Statistical Genetics Lab during all his undergrad course. He has
 worked with population structure analysis and developed Statistical
 Genetics softwares. As undergrad, he made a sandwich period at University
-of Florida, USA. In this period, he was intern at Forage Breeding and Genome Lab (Prof Patricio Munoz`s Lab) and developed a [software](https://github.com/prmunoz/AGHmatrix) for construction of A and G matrices in autotetraploid crops (GS). His currently work is to expand these methods to n-ploidy. For more information about Rodrigo, please visit his [Lattes CV](http://lattes.cnpq.br/3199344976521959).
+of Florida, USA. In this period, he was intern at Forage Breeding and Genome Lab (Prof Patricio Munoz`s Lab) and developed a [software](https://github.com/prmunoz/AGHmatrix) for construction of A and G matrices in autotetraploid crops (GS). His currently work is to expand these methods to n-ploidy organisms. For more information about Rodrigo, please visit his [Lattes CV](http://lattes.cnpq.br/3199344976521959).
 
 ## Undergraduated students
 
