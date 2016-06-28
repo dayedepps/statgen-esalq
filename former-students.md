@@ -11,6 +11,12 @@ image:
   creditlink: http://augusto-garcia.github.io/
 ---
 
+#### Danilo Eduardo Cursi
+_**Danilo**_ is an Agronomist and has MSc (2016) in Genetics
+and Plant Breeding of the Department of Genetics, University of São
+Paulo (ESALQ/USP). Currently he is a researcher of the Sugarcane Breeding Program of RIDESA/UFSCar.
+
+
 #### Carina de Oliveira Anoni
 
 _**Carina**_ is an Agronomist, has a PhD (2016) and Msc (2012) degree in Genetics and Plant Breeding from Department of Genetics at ESALQ/USP. Now she is scientist of the Plant Breeding group at Monsanto.
