@@ -1,0 +1,712 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Short tutorial about SSH (Secure Shell) &#8211; Statistical Genetics Laboratory</title>
+<meta name="description" content="What you need to do to start using SSH.">
+<meta name="keywords" content="tips, ssh, tutorial">
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://augusto-garcia.github.io/statgen-esalq/images/LogoFundoAzul.jpg">
+
+<meta name="twitter:title" content="Short tutorial about SSH (Secure Shell)">
+<meta name="twitter:description" content="What you need to do to start using SSH.">
+<meta name="twitter:creator" content="@aafgarci">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Short tutorial about SSH (Secure Shell)">
+<meta property="og:description" content="What you need to do to start using SSH.">
+<meta property="og:url" content="http://augusto-garcia.github.io/statgen-esalq/Short-tutorial-about-SSH-(Secure-Shell)/">
+<meta property="og:site_name" content="Statistical Genetics Laboratory">
+
+
+
+
+
+<link rel="canonical" href="http://augusto-garcia.github.io/statgen-esalq/Short-tutorial-about-SSH-(Secure-Shell)/">
+<link href="http://augusto-garcia.github.io/statgen-esalq/feed.xml" type="application/atom+xml" rel="alternate" title="Statistical Genetics Laboratory Feed">
+<link rel="author" href="https://plus.google.com/u/0/communities/103592582757513673768?rel=author">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Google Webfonts -->
+<link href='http://fonts.googleapis.com/css?family=Maven+Pro|PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://augusto-garcia.github.io/statgen-esalq/assets/css/main.min.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://augusto-garcia.github.io/statgen-esalq/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://augusto-garcia.github.io/statgen-esalq/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://augusto-garcia.github.io/statgen-esalq/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://augusto-garcia.github.io/statgen-esalq/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://augusto-garcia.github.io/statgen-esalq/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://augusto-garcia.github.io/statgen-esalq/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://augusto-garcia.github.io/statgen-esalq/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://augusto-garcia.github.io/statgen-esalq/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://augusto-garcia.github.io/statgen-esalq/images/apple-touch-icon-144x144-precomposed.png">
+
+<!-- MathJax Latex -->
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+</head>
+
+<body class="post">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://augusto-garcia.github.io/statgen-esalq">Statistical Genetics Laboratory</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+				<li><a href="http://augusto-garcia.github.io/statgen-esalq/about/" >About</a></li>
+		        
+				<li><a href="http://augusto-garcia.github.io/statgen-esalq/posts/" >Posts</a></li>
+		        
+				<li><a href="http://augusto-garcia.github.io/statgen-esalq/people/" >People</a></li>
+		        
+				<li><a href="http://augusto-garcia.github.io/statgen-esalq/former-students/" >Former Students</a></li>
+		        
+				<li><a href="http://augusto-garcia.github.io/statgen-esalq/contact/" >Contact</a></li>
+		        
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+<div class="image-wrap">
+  <img src="http://augusto-garcia.github.io/statgen-esalq/images/LogoFundoAzul.jpg" alt="Short tutorial about SSH (Secure Shell) feature image">
+  
+</div><!-- /.image-wrap -->
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    <img src="http://augusto-garcia.github.io/statgen-esalq/images/LogoLabAvatar.png" class="bio-photo" alt="Department of Genetics bio photo"></a>
+<h3>Department of Genetics</h3>
+<p>ESALQ/USP</p>
+<a href="http://twitter.com/aafgarci" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>
+<a href="http://facebook.com/groups/611026095639818/" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>
+<a href="https://plus.google.com/u/0/communities/103592582757513673768" class="author-social" target="_blank"><i class="icon-google-plus"></i> Google+</a>
+<a href="http://linkedin.com/in/http://www.linkedin.com/groups/Statistical-Genetics-Laboratory-8124864/about" class="author-social" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a>
+
+
+<a href="http://github.com/augusto-garcia/statgen-esalq" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>
+
+
+
+
+
+
+  </div>
+  <article>
+    <div class="headline-wrap">
+      <h1>Short tutorial about SSH (Secure Shell)</h1>
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      <p><em>Written by <a href="http://augusto-garcia.github.io/statgen-esalq/people/">Luis Felipe Ventorim Ferrão</a> and <a href="http://augusto-garcia.github.io/statgen-esalq/former-students/">Marcelo Mollinari</a></em></p>
+
+<p> </p>
+
+<p>SSH is a secure protocol that encrypts all data sent between the client
+computer and the computer it is connecting to. SSH applications usually
+allow both interactive terminal sessions on the remote machine and the
+ability to transfer files securely. This guide is intended as a basic
+introduction to using SSH commands.</p>
+
+<p> </p>
+
+<p><img src="http://imgs.xkcd.com/comics/im_an_idiot.png" alt="charge" />
+<em>Credits and more great comics at: <a href="http://xkcd.com/">xkcd</a></em></p>
+
+<h1 id="table-of-contents">Table of Contents</h1>
+
+<ul>
+  <li><a href="#install-and-configure-openssh-server-in-linux">Install and Configure OpenSSH Server In
+Linux</a></li>
+  <li><a href="#remote-connection">Remote Connection</a></li>
+  <li><a href="#transferring-files-with-ssh">Transferring Files with SSH</a>
+    <ul>
+      <li><a href="#command-line-ssh-commands">Command-line SSH commands</a></li>
+      <li><a href="#graphical-interface">Graphical interface</a></li>
+      <li><a href="#compress-tar-filesfolder-in-linux">Compress tar files/folder in
+linux</a></li>
+    </ul>
+  </li>
+  <li><a href="#run-r-script-remotely">Run R Script remotely</a></li>
+</ul>
+
+<h1 id="install-and-configure-openssh-server-in-linux">Install and Configure OpenSSH Server In Linux</h1>
+
+<p><strong>OpenSSH</strong> is a free open source set of computer tools used to provide
+secure and encrypted communication over a computer network by using the
+<strong>ssh</strong> protocol. To install OpenSSH, open a terminal and run the
+following commands with superuser permissions.</p>
+
+<pre><code>sudo apt-get install openssh-server
+</code></pre>
+
+<p>Configure the ssh is done by editing the <code>sshd_config file</code> in the
+<code>/etc/ssh</code> directory. The <code>sshd_config</code> is the configuration file for
+the OpenSSH server and can be acessed and modified in the emacs (or
+another text editor) by the following commands:</p>
+
+<pre><code>sudo emacs -nw /etc/ssh/sshd_config
+</code></pre>
+
+<p>Configuring OpenSSH means striking a balance between security and
+ease-of-use. Ubuntu’s default configuration tries to be as secure as
+possible without making it impossible to use in common use cases. More
+information about OpenSSH can be accessed in
+<a href="https://help.ubuntu.com/community/SSH/OpenSSH/Configuring">https://help.ubuntu.com/community/SSH/OpenSSH/Configuring</a>.</p>
+
+<h1 id="remote-connection">Remote Connection</h1>
+
+<p>The Remote Connection can be initialized using the ssh command
+structure:</p>
+
+<pre><code>ssh [option] [local-name]@[remote-host] 
+</code></pre>
+
+<ul>
+  <li>
+    <p><code>ssh</code>: ssh (SSH client) is a program for logging into a remote
+machine and for executing commands on a remote machine.</p>
+  </li>
+  <li>
+    <p><code>user-name</code>: remote user system to be used in connection;</p>
+  </li>
+  <li>
+    <p><code>remote-host</code>: Host where the command will be executed. It can be
+specified as a name or as an IP Address (commonly used);</p>
+  </li>
+  <li>
+    <p><code>option</code>: different arguments can be used, some of them will be
+detailed;</p>
+  </li>
+</ul>
+
+<table style="width:100%;">
+<colgroup>
+<col width="10%" />
+<col width="90%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Option</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">-p</td>
+<td align="left">Port to connect to on the remote host (usually 22 is the default port). *p* is lowercase. </td>
+</tr>
+<tr class="even">
+<td align="left">-X</td>
+<td align="left">Enables X11 forwarding (important to access graphical interface). *X* is uppercase.</td>
+</tr>
+</tbody>
+</table>
+
+<p>Example: acessing some remote machine by the 32 port, using the
+<code>username</code> user in the following IP adress: <code>192.164.0.50</code>. The command
+line for this action is:</p>
+
+<pre><code>ssh -p 32 username@192.164.0.50
+</code></pre>
+
+<p>In the first connection, a warning is provided confirming the server ID.
+After providing the password, the connection is established and in the
+remote machine the prompt is displayed. From there, all commands are
+executed on the remote machine. Experiment view directories and folders
+in the remote machine using the <code>ls</code> command. Check if there are other
+user logged using the <code>w</code> command or check the real-time processes using
+<code>top</code>.</p>
+
+<h1 id="transferring-files-with-ssh">Transferring Files with SSH</h1>
+
+<p>An important action using ssh service is the file transference between
+machines. There are different ways to do it, however we will show the
+transference via i) command-line (<code>scp</code> and <code>sftp</code>) and ii) graphical
+interface.</p>
+
+<h2 id="command-line-ssh-commands">Command-line SSH commands</h2>
+
+<p>There are two main command-line SSH commands to transfer files: <strong>scp</strong>
+and <strong>sftp</strong>. <code>scp</code> is a primitive way and a non-interactive command
+that takes a set of files to copy on the command line, copies them, and
+exits. On the other hand, <code>sftp</code> is an interactive and more user
+friendly command that opens a persistent connection where multiple
+copying commands can be performed through.</p>
+
+<h3 id="scp">scp</h3>
+
+<h4 id="sending-a-file-from-local-user-to-remote-machine">Sending a file from LOCAL user to REMOTE MACHINE:</h4>
+
+<pre><code>scp [option]&lt;path.local&gt;[user@destination]:&lt;path.destination&gt; 
+</code></pre>
+
+<ul>
+  <li>
+    <p><code>scp</code>: command to transfer files;</p>
+  </li>
+  <li>
+    <p><code>path.local</code> : file in the local path that I want to send to a
+remote machine;</p>
+  </li>
+  <li>
+    <p><code>user@destination</code>: remote machine identification;</p>
+  </li>
+  <li>
+    <p><code>:path.destination</code> : path in the remote machine where the file will
+be sent;</p>
+  </li>
+  <li>
+    <p><code>option</code>: -P (port to connect to on the remote host)</p>
+  </li>
+</ul>
+
+<p>Below are represented a simple way to send a file from local user to a
+host machine (local-&gt;host). Send the file, by the port 32, in the
+path <code>/home/local_user/myfile.txt</code> to the <code>username@192.164.0.50</code>
+(remote host), and store this file in the home of the remote host
+(<code>/home/remote_user/</code>). To confirm the send, access the remote machine
+and look for the file in the home path using the <strong>ls</strong> command.</p>
+
+<pre><code># Sending a file: Local -&gt; host
+scp -P 32 /home/local_user/myfile.txt username@192.164.0.50:/home/remote_user/
+
+# Confirm the send
+ssh -p 32 username@192.164.0.50
+ls
+</code></pre>
+
+<p><em>OBS: The -P argument in the scp command is in UPPERCASE, different than
+ssh command (-p).</em></p>
+
+<h4 id="downloading-a-file-from-remote-machine-to-local">Downloading a file from REMOTE MACHINE to LOCAL:</h4>
+
+<pre><code>scp [option] [user@destination]:&lt;path.destination&gt; &lt;path.local&gt; 
+</code></pre>
+
+<ul>
+  <li>
+    <p><code>:path.destination</code> : file in the path remote machine that I want to
+send to a local user;</p>
+  </li>
+  <li>
+    <p><code>user@destination</code>: remote machine identification;</p>
+  </li>
+  <li>
+    <p><code>:path.local</code> : path in the local user where the file will be sent;</p>
+  </li>
+  <li>
+    <p><code>option</code>: -P (port to connect to on the remote host)</p>
+  </li>
+</ul>
+
+<p>Below are represented a simple way to download a file from host machine
+to a local user (host-&gt;local). With the command it will download the
+file, by the port 32, from the <code>username@192.164.0.50</code> (remote host) in
+the path <code>/home/remote_user/myfile.tx</code> and store this file in the home
+of local user (<code>/home/local_user/</code>). To confirm the send, in the local
+machine, look for the file in the home path using the <strong>ls</strong> command.</p>
+
+<pre><code># Downloading a file: Host -&gt; local
+scp -P 32 fulano@192.164.0.50:/home/remote_user/myfile.txt /home/local_user/ 
+
+# Confirm the downloading
+ls
+</code></pre>
+
+<h3 id="sftp">sftp</h3>
+
+<p>In interactive mode, <strong>sftp</strong> logs you into the remote system and places
+you at a prompt that is similar to the command prompt on your local
+system. From the local system’s command line, you can start the <strong>sftp</strong>
+session using the command:</p>
+
+<pre><code>sftp [option] [user@destination]
+</code></pre>
+
+<ul>
+  <li>
+    <p><code>user@destination</code>: remote machine identification;</p>
+  </li>
+  <li>
+    <p><code>option</code>: -P (port to connect to on the remote host)</p>
+  </li>
+</ul>
+
+<p>The sftp protocol performs all operations over an encrypted ssh session.
+It uses many of the features of ssh, such as public key authentication
+and data compression. The sftp for transferring files is more user
+friendly than scp, however the function has a typical syntax which has
+to be known. It offers a limited, but very useful, set of commands which
+you can navigate in the remote file system and also send and receive
+files.</p>
+
+<p>A summary is presented:</p>
+
+<table style="width:100%;">
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Option</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">cd</td>
+<td align="left">Change the REMOTE working directory to path</td>
+</tr>
+<tr class="even">
+<td align="left">lcd</td>
+<td align="left">Change the LOCAL working directory to path</td>
+</tr>
+<tr class="odd">
+<td align="left">ls</td>
+<td align="left">Display a REMOTE directory</td>
+</tr>
+<tr class="even">
+<td align="left">lls</td>
+<td align="left">Display a LOCAL directory</td>
+</tr>
+<tr class="odd">
+<td align="left">pwd</td>
+<td align="left">Display the name of the REMOTE working directory</td>
+</tr>
+<tr class="even">
+<td align="left">lpwd</td>
+<td align="left">Display the name of the LOCAL working directory</td>
+</tr>
+<tr class="odd">
+<td align="left">rm</td>
+<td align="left">Delete the REMOTE file specified by path</td>
+</tr>
+<tr class="even">
+<td align="left">lrm</td>
+<td align="left">Delete the LOCAL file specified by path</td>
+</tr>
+<tr class="odd">
+<td align="left">put [<em>local-path</em>] [<em>remote-path</em>]</td>
+<td align="left">Upload [<em>local-path</em>] and store it on the [<em>remote-path</em>]</td>
+</tr>
+<tr class="even">
+<td align="left">get [<em>remote-path</em>][<em>local-path</em>]</td>
+<td align="left">Retrieve the [<em>remote-path</em>] and store it on the [<em>local-path</em>]</td>
+</tr>
+<tr class="odd">
+<td align="left">?</td>
+<td align="left">help</td>
+</tr>
+<tr class="even">
+<td align="left">quit</td>
+<td align="left">quit sftp</td>
+</tr>
+</tbody>
+</table>
+
+<p>The mainly commands presented are <code>put</code> and <code>get</code>. For transfer
+directories between the local user and the remote machine the argument
+<strong>-r</strong> can be used. Some examples:</p>
+
+<pre><code># Acessing a remote machine
+sftp -P 32 username@192.164.0.50
+
+# Downloading mydocs.zip file from REMOTE MACHINE to /home/local_user in the LOCAL USER
+get home/remote_user/mydocs.zip /home/local_user
+
+# Downloading a Documents directories  from REMOTE MACHINE to /home/local_user in the LOCAL USER
+get -r /home/remote_user/Documents /home/local_user
+
+# Uploading mydocs.zip file from USER LOCAL to /home/remote_user in the REMOTE MACHINE
+put /home/local_user/mydocs.zip /home/remote_user
+
+# Uploading Documents directories from USER LOCAL to /home/lremote_user in the REMOTE MACHINE
+put -r /home/local_user/Documents /home/remote_user
+</code></pre>
+
+<p><em>OBS: sftp does not recognize the shortcut for home directories (~), so
+it is necessary use the complete name of the home directory.</em></p>
+
+<h2 id="graphical-interface">Graphical interface</h2>
+
+<p>The use of graphical interface is possible, but it depends upon the
+configuration in the server and user system. Depending of the remote
+machine the graphical interface cannot be accessed. Further, the
+transfer between machines using graphical interface usually is slower
+than using command lines. If the graphical interface it is allowed, the
+acess via ssh can be done by: <code>ssh -X -p 32 username@192.164.0.50</code>.
+Example:</p>
+
+<pre><code># Acessing a remote machine
+ssh -X -p 32 username@192.164.0.50
+
+# Open a program
+gedit
+</code></pre>
+
+<p>To file transferences the graphical SFTP can be used. In the desktop
+environment (the “explorer” in the Linux system), you have to be able to
+see the location bar by pressing <code>CTRL +L</code>. Then, in the location bar
+use the following command:</p>
+
+<pre><code>sftp://[user@destination]:[port]
+</code></pre>
+
+<p>After providing the password, the connection is established and a window
+with the files and directory in the remote machine is shown. The file
+transference can be done by moving the icons in the window. This action
+can be slow.</p>
+
+<p>Other graphical interface such as <strong>Nautilus</strong> (gnome) and <strong>Konqueror</strong>
+(KDE) may also be used. The <strong>filezilla</strong> is a friendly-user software
+which makes the file transfer a suitable process. In this case, the
+screen is divided and the files can be upload and download in an
+interactive form between a local user and a remote machine.</p>
+
+<h2 id="compress-tar-filesfolder-in-linux">Compress tar files/folder in linux</h2>
+
+<p>In the transference process, it can be a good idea work with compress
+file instead of upload or download separeted files “one by one”. In this
+sense, the command <code>tar</code> can help. A quick example about compress/zip
+and uncompress/unzip files or folder is shown below.</p>
+
+<h3 id="compresszip">Compress/zip</h3>
+
+<pre><code>tar -czvf &lt;new_name&gt;.tar.gz &lt;path_files_to_compress&gt;
+</code></pre>
+
+<ul>
+  <li>
+    <p><code>new_name</code>: name of the compressed file;</p>
+  </li>
+  <li>
+    <p><code>file_to_compress</code>: path of the files or folder that will be
+compressed;</p>
+  </li>
+  <li>
+    <p><code>-czvf</code>: create a new tar file(<code>c</code>); use gzip to zip it (<code>z</code>);
+verbose , display file to compress or uncompress (<code>v</code>); and create
+the tar file with filename provided as the argument
+(<code>f</code>), respectively.</p>
+  </li>
+</ul>
+
+<p>In the following example, compress all .R files into a new tar file
+“Rscript.tar.gz”.</p>
+
+<pre><code># Compress/zip a remote machine
+tar -czvf Rscript.tar.gz *.R
+</code></pre>
+
+<p><em>OBS: the symbol <code>*</code> in the code is a recursive signal and means: “I
+want all the .R files “</em></p>
+
+<h3 id="uncompressunzip">Uncompress/unzip</h3>
+
+<pre><code>tar -xzvf &lt;compressed_name&gt;.tar.gz 
+</code></pre>
+
+<ul>
+  <li>
+    <p><code>compressed_name</code>: path of the compreesed file;</p>
+  </li>
+  <li>
+    <p><code>-xzvf</code>: extract file (<code>x</code>); use gzip to zip it (<code>z</code>); verbose ,
+display file to compress or uncompress (<code>v</code>); and create the tar
+file with filename provided as the argument (<code>f</code>), respectively.</p>
+  </li>
+</ul>
+
+<p>In the following example, extract the file “Rscript.tar.gz”.</p>
+
+<pre><code># Compress/zip a remote machine
+tar -xzvf Rscript.tar.gz
+</code></pre>
+
+<h1 id="run-r-script-remotely">Run R Script remotely</h1>
+
+<p>An important action using <strong>ssh</strong> is to run an R script remotely. For do
+it, you have to have the R software installed in the remote machine.
+Some powerful text editors (emacs, vi …) can be also installed in the
+remote machine and used to edit and to run some R script. However, in
+some cases, it is expected that the user only run the R script directly
+in the terminal using command lines. For this, a suggested solution is
+to upload all the necessary files from the <code>local_user</code> to the
+<code>remote_user</code>, to access the remote machine and to execute the R script
+in the prompt.</p>
+
+<p>An example is presented below and the steps described are realized using
+some commands already cited. A new function is the <code>R CMD BATCH</code> used to
+run R script in the terminal. The command <code>R CMD BATCH --help</code> show some
+information and arguments about the function.</p>
+
+<pre><code># Acessing the remote machine to transfer files
+sftp -P 32 username@192.164.0.50
+
+# Uploading script.R file from local_user to remote_user
+put /home/local_user/script.R /home/remote_user
+
+# Acessing the machine run the script.R
+ssh username@192.164.0.50
+
+# Running R script in the terminal
+R CMD BATCH script.R &amp;
+</code></pre>
+
+<p>Some important tips:</p>
+
+<ul>
+  <li>
+    <p>A .Rout output file will be generated and can be used to check the
+evolution of the process with the following command line at the
+prompt: <code>tail -f script.Rout</code>.</p>
+  </li>
+  <li>
+    <p>The symbol <code>&amp;</code> in the end of the command determined background
+running in the terminal. The same prompt can be used for others
+tasks which not only run the only one R script.</p>
+  </li>
+  <li>
+    <p>Include <code>print()</code> commands in the R script is a good idea, since it
+helps to keep up with the R.out evolution.</p>
+  </li>
+</ul>
+
+<p>A more advanced structure is the command <code>R CMD BATCH</code> with arguments.
+For this, we will consider a toy example about a sum function in R
+script. Two arguments ( <code>x</code> and <code>y</code>) can be specified directly in the
+prompt and the sum (x+y) is performed. The following R script can be
+used with a specific “header” into the code.</p>
+
+<pre><code># HEADER
+options(echo=TRUE) 
+args &lt;- commandArgs(trailingOnly = TRUE)
+print(args)
+for(i in 1:length(args)){
+    eval(parse(text=args[[i]]))
+}
+rm(args)
+
+# Sum R. function
+my_sum&lt;-function(x,y) x+y
+write.table(my_sum(x,y), file="result.txt")
+</code></pre>
+
+<p>In the prompt, the command <code>R CMD BATCH `--args x=1 y=2` script.R &amp;</code>
+can have the variable values be chosen and a <strong>result.txt</strong> file is
+generated with the sum result.</p>
+
+      <hr />
+      <footer role="contentinfo">
+        <div class="article-author-bottom">
+          <img src="http://augusto-garcia.github.io/statgen-esalq/images/LogoLabAvatar.png" class="bio-photo" alt="Department of Genetics bio photo"></a>
+<h3>Department of Genetics</h3>
+<p>ESALQ/USP</p>
+<a href="http://twitter.com/aafgarci" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>
+<a href="http://facebook.com/groups/611026095639818/" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>
+<a href="https://plus.google.com/u/0/communities/103592582757513673768" class="author-social" target="_blank"><i class="icon-google-plus"></i> Google+</a>
+<a href="http://linkedin.com/in/http://www.linkedin.com/groups/Statistical-Genetics-Laboratory-8124864/about" class="author-social" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a>
+
+
+<a href="http://github.com/augusto-garcia/statgen-esalq" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>
+
+
+
+
+
+
+        </div>
+        <p class="byline"><strong>Short tutorial about SSH (Secure Shell)</strong> was published on <time datetime="2015-06-28T00:00:00-03:00">June 28, 2015</time> and last modified on <time datetime="2016-07-11">July 11, 2016</time> by <a href="http://augusto-garcia.github.io/statgen-esalq/about" title="About Department of Genetics">Department of Genetics</a>.</p>
+      </footer>
+    </div><!-- /.article-wrap -->
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+  <div class="related-articles">
+  <h4>You might also enjoy <small class="pull-right">(<a href="http://augusto-garcia.github.io/statgen-esalq/posts/">View all posts</a>)</small></h4>
+    <ul>
+    
+      <li><a href="http://augusto-garcia.github.io/statgen-esalq/Hapmap-and-VCF-formats-and-its-integration-with-onemap/" title="Hapmap and VCF formats and its integrations with onemap">Hapmap and VCF formats and its integrations with onemap</a></li>
+    
+      <li><a href="http://augusto-garcia.github.io/statgen-esalq/Makefile-Tutorial/" title="Makefile Tutorial">Makefile Tutorial</a></li>
+    
+      <li><a href="http://augusto-garcia.github.io/statgen-esalq/Short-introduction-to-LaTeX/" title="A Very Short Introduction to LaTeX">A Very Short Introduction to LaTeX</a></li>
+    
+    </ul>
+    <hr />
+  </div><!-- /.related-articles -->
+  <footer>
+    <span>&copy; 2016 Department of Genetics. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://augusto-garcia.github.io/statgen-esalq/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://augusto-garcia.github.io/statgen-esalq/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-51935714-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+	        
+
+
+
+<link href="//fonts.googleapis.com/css?family=Maven Pro&subset=latin" rel="stylesheet" type="text/css">
+<style>
+* {
+ font-family: 'Maven Pro', sans-serif;
+}
+</style>
+
+
+
+
+</body>
+</html>
