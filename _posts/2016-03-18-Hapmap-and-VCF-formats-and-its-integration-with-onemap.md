@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hapmap and VCF formats and its integrations with onemap
+title: Hapmap and VCF formats and its integration with onemap
 description: "How to use and convert this formats and call them on onemap."
 modified: 2016-06-04
 tags: [hapmap, vcf, onemap, transform]
