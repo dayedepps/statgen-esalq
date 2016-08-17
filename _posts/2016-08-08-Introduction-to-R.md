@@ -10,7 +10,6 @@ image:
 ---
 
 *Written by [Rodrigo Rampazo Amadeu](http://augusto-garcia.github.io/statgen-esalq/people/)*
----
 
 -   [Purpose](#purpose)
 -   [Installing R](#installing-r)
@@ -103,9 +102,8 @@ pressing the green plus symbol on the top left corner. Then, you will
 see a script window and a console window, all the commands here is to be
 used and wroted on the console window. We strongly advise you to write
 it down on the script window and press *run* line by line on the top
-right corner (the shortcut to it it is `Ctrl+Enter`. In this way you can
-save and track all of your code. Try to run the following lines on the
-next section.
+right corner (shortcut: `Ctrl+Enter`). In this way you can
+save and track all of your code. Try to write on the script and to run the following lines.
 
 R as calculator
 ---------------
@@ -136,6 +134,8 @@ Logaritm
 Exponential *e*
 
     exp(2)
+
+Tip: Keep in mind to save your script as your work progress. To do it, just press `Ctrl+s`.
 
 Functions
 ---------
@@ -755,10 +755,10 @@ format with 300 dpis:
 -----
 
 Using `for` is a great way to do repetitive tasks in R, it shorts your
-script and saves your time. We will present some basic loop ideas ans
-concepts. In the following `for`, you have a counter called `i` which
-starts on 1 and goes to 10, 1 by 1. Each loop will increase your object
-`x` by the `1`. If you `x` is 0 as the beggining, after the loop will be
+script and saves your time. We will present some basic loop ideas and
+concepts. In the following `for`, you have a counter letter `i` which
+starts on 1 and goes to 10, 1 by 1. Each loop will add 1 to your object
+`x`. If your `x` is 0 as here stated, after the loop will be
 10. In other words, you will add one on x ten times.
 
     x=0
@@ -778,9 +778,7 @@ loop. For example:
     }
     x
 
-In the `for` above, you print the number of each loop. You can also
-print your object within the loop (if your object is not too big). For
-example:
+In the `for` above, you print the `x` value of after adding 1 inside each loop. You can also print your object within the loop (if your object is not too big). For example:
 
     x=0
     for( i in 1:10){
@@ -790,8 +788,7 @@ example:
     }
     x
 
-Notice that the print order is first i and then x (on this case they are
-equal). You can also use a understandble print way using the function
+Notice that the print order is first `i` and then `x` (on this case they are equal). You can also use a explicit print way using the function
 `paste`:
 
     x=0
@@ -904,7 +901,7 @@ receive the new values, and, finally, we do the for with ifs.
 
 Clearly there are many other ways to do the calculations above
 presented, in better and fasters ways, this
-[post](https://www.r-bloggers.com/strategies-to-speedup-r-code/) present
+[post](https://www.r-bloggers.com/strategies-to-speedup-r-code/) presents
 some tips to speedup our loops, however some basic knowledge is
 required.
 
@@ -920,6 +917,8 @@ and keep backups.
     save.image("today_date.Rdata") 
 
     load.image("today_date.Rdata")
+
+Keep in mind to save your script as your work progress. To do it, just press `Ctrl+s`.
 
 About it
 --------
