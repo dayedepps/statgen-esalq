@@ -130,7 +130,7 @@ If you have some initial content, run:
 
     cd  folder_name
     git init
-    git add .          # includes everything 
+    git add .          # . to include everything 
     git commit -m "Creating a new repository"
 
 or you can get a copy of a Git existing repository in GitHub (further).
