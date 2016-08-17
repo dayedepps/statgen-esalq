@@ -11,6 +11,8 @@ image:
 
 *Written by [Rodrigo Rampazo Amadeu](http://augusto-garcia.github.io/statgen-esalq/people/)*
 
+Table of Contents:
+
 -   [Purpose](#purpose)
 -   [Installing R](#installing-r)
 -   [Using R](#using-r)
