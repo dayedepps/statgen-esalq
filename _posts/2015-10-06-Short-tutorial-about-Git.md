@@ -320,7 +320,7 @@ Clonning with HTTPS
 
     git pull https://github.com/augusto-garcia/onemap.git # onemap package URL
 
-    or
+or
 
     git pull https://github.com/marianella-quezada/Map-Mimulus # Repository created in the last example
 
