@@ -95,7 +95,6 @@ _**Rafael**_ is a PhD Candidate in Genetics and Plant Breeding at University of 
 His currently research focus on simulate different strategies in a breeding program of autogamous species to improve selection accuracy. Highlighting evaluation of early generations to select progenies in advanced cycles and also genomic selection aiming to identify promising biparental populations. His main interest are quantitative genetics, mixed model, genomic selection and programming, especially in R and C/C++.
 For more information about Rafael, please visit his [Lattes CV](http://lattes.cnpq.br/8662220181307266).
 
-
 ## MSc Students
 
 #### Matheus Dalsente Krause (by himself)
@@ -110,7 +109,7 @@ During his undergraduate, he had a four-year internship at Laboratory of Maize B
 _**Rodrigo**_ is an Agronomist and a Master Student (MSc) in Genetics and Plant Breeding of the Department of Genetics, University of São
 Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Rodrigo.jpg" height="120">{: .image-pull-right}
 
-He was intern in the Statistical Genetics Lab during all his undergrad course. He has worked with population structure analysis and developed Statistical Genetics softwares. As undergrad, he made a sandwich period at University of Florida, USA. In this period, he was intern at Forage Breeding and Genome Lab (Prof Patricio Munoz`s Lab) and developed a [software](https://github.com/prmunoz/AGHmatrix) for construction of A and G matrices in autotetraploid crops (GS). His currently work is to expand these methods to n-ploidy organisms and he is also involved in Genetic Mapping and Genomic Selection projects. Also, he is an R enthusiastic. For more information about Rodrigo, please visit his [Lattes CV](http://lattes.cnpq.br/2210851675591886).
+He was intern in the Statistical Genetics Lab during all his undergrad course. He has worked with population structure analysis and developed Statistical Genetics softwares. As undergrad, he made a sandwich period at University of Florida, USA. In this period, he was intern at Forage Breeding and Genome Lab (Prof Patricio Munoz's Lab) and developed a [software](https://github.com/prmunoz/AGHmatrix) for construction of A and G matrices in autotetraploid crops (GS). His currently work is to expand these methods to n-ploidy organisms and he is also involved in Genetic Mapping and Genomic Selection projects. Also, he is an R enthusiastic. For more information about Rodrigo, please visit his [Lattes CV](http://lattes.cnpq.br/2210851675591886).
 
 ## Undergraduated students
 
