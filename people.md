@@ -90,8 +90,10 @@ Additionally, she is an Assistant Professor in the Department of Plant Biology, 
 
 #### Rafael Storto Nalin (by himself)
 
-_**Rafael**_ is a PhD student in Genetics and Plant Breeding at Luiz de Queiroz College of Agriculture, University of São Paulo.
+_**Rafael**_ is a PhD Candidate in Genetics and Plant Breeding at University of São Paulo (ESALQ/USP). He has a Master degree in the same area by Federal University of Lavras and undergraduate degree in Agronomy by Federal Institute of Mato Grosso. <img src="{{ site.url }}/images/Rafael.jpg" height="120">{: .image-pull-right}
 
+His currently research focus on simulate different strategies in a breeding program of autogamous species to improve selection accuracy. Highlighting evaluation of early generations to select progenies in advanced cycles and also genomic selection aiming to identify promising biparental populations. His main interest are quantitative genetics, mixed model, genomic selection and programming, especially in R and C/C++.
+For more information about Rafael, please visit his [Lattes CV](http://lattes.cnpq.br/8662220181307266).
 
 
 ## MSc Students
