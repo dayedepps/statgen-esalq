@@ -56,7 +56,7 @@ In 2010, he was at University of Minnesota as a trainee. As PhD candidate, he wa
 
 _**Cristiane**_  is Master in Genetics and Plant Breeding (ESALQ/USP) and PhD candidate in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo (ESALQ/USP). She has an undergraduate degree in Biotechnology by Federal University of São Carlos (UFSCar). <img src="{{ site.url }}/images/Cristiane.jpg" width="100">{: .image-pull-right}
 
-She has interests in study computational tools and statistical methods for plant breeding related with molecular biology and quantitative genetics. Currently, her research involves study of genetic architecture of quantitative traits in outcrossing species by linkage map and QTLs mapping using SNP markers, focusing in eucalypts. Her project has partnership with the enterprise Suzano. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836).
+She has interest in study computational tools and statistical methods for plant breeding related with molecular biology and quantitative genetics. Currently, her research involves the study of genetic architecture of quantitative traits in outcrossing species by linkage map and QTLs mapping using SNP markers, focusing in eucalypts. Her project has partnership with the enterprise Suzano. For more information about Cristiane, please visit her [Lattes CV](http://lattes.cnpq.br/5351325433180836).
 
 
 #### Jhonathan Pedroso Rigal dos Santos (by himself)
@@ -110,7 +110,7 @@ During his undergraduate, he had a four-year internship at Laboratory of Maize B
 _**Rodrigo**_ is an Agronomist and a Master Student (MSc) in Genetics and Plant Breeding of the Department of Genetics, University of São
 Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Rodrigo.jpg" height="120">{: .image-pull-right}
 
-He was intern in the Statistical Genetics Lab during all his undergrad course. He has worked with population structure analysis and developed Statistical Genetics softwares. As undergrad, he made a sandwich period at University of Florida, USA. In this period, he was intern at Forage Breeding and Genome Lab (Prof Patricio Munoz`s Lab) and developed a [software](https://github.com/prmunoz/AGHmatrix) for construction of A and G matrices in autotetraploid crops (GS). His currently work is to expand these methods to n-ploidy and he is also involved in Genetic Mapping and Genomic Selection projects. Also, he is an R enthusiastic. For more information about Rodrigo, please visit his [Lattes CV](http://lattes.cnpq.br/2210851675591886).
+He was intern in the Statistical Genetics Lab during all his undergrad course. He has worked with population structure analysis and developed Statistical Genetics softwares. As undergrad, he made a sandwich period at University of Florida, USA. In this period, he was intern at Forage Breeding and Genome Lab (Prof Patricio Munoz`s Lab) and developed a [software](https://github.com/prmunoz/AGHmatrix) for construction of A and G matrices in autotetraploid crops (GS). His currently work is to expand these methods to n-ploidy organisms and he is also involved in Genetic Mapping and Genomic Selection projects. Also, he is an R enthusiastic. For more information about Rodrigo, please visit his [Lattes CV](http://lattes.cnpq.br/2210851675591886).
 
 ## Undergraduated students
 
