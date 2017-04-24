@@ -37,18 +37,16 @@ Emacs, LaTeX, and git, among many other software and tools.
 #### João Ricardo Bachega Feijó Rosa (by himself)
 
 _**João Ricardo**_ has an undergraduate degree in Agronomy, has MSc (2012) and PhD (2016) in Genetics and Plant Breeding at "Luiz de Queiroz"
-College of Agriculture, University of São Paulo. 
-<img src="{{ site.url }}/images/JoaoRicardo.jpg" height="120">{: .image-pull-right}
+College of Agriculture, University of São Paulo. <img src="{{ site.url }}/images/JoaoRicardo.jpg" height="100">{: .image-pull-right}
 
 He initiated his career as a sugarcane breeder at Federal University of São Carlos, one of the principal Federal Universities in Brazil that is responsible for RIDESA, a public country-wide sugarcane breeding program. During his master degree at Department of Genetics of the University of São Paulo, João was interested to investigate the patterns of linkage disequilibrium and population structure on a Brazilian collection of sugarcane genotypes, a group of historically important accessions to Brazilian germplasm. His principal interest while a PhD Candidate was to use coalescent theory and population genetics concepts to understand the linkage disequilibrium and the evolutionary past of an important panel of accessions of Sorghum using next generation sequencing (SNPs from Genotyping-By-Sequencing). Furthermore, João is also involved into genome-wide association studies in Sorghum and collaborative projects of linkage analysis and association mapping of other very important crops for Brazil, such as common bean, cacao and passion fruit. For more information about João, please visit his [Lattes CV](http://lattes.cnpq.br/2084381270708398)
 
 
 #### Kaio Olímpio das Graças Dias (by himself)
 
-_**Kaio**_ has an undergraduate degree in Agronomy (2010) and Master degree (2013) and PhD (2016) in Genetics and Plant Breeding at Federal University of Lavras (UFLA).
-<img src="{{ site.url }}/images/Kaio.jpg" height="120">{: .image-pull-right}
+_**Kaio**_ has an undergraduate degree in Agronomy (2010) and Master degree (2013) and PhD (2016) in Genetics and Plant Breeding at Federal University of Lavras (UFLA). <img src="{{ site.url }}/images/Kaio.jpg" height="100">{: .image-pull-right}
 
-In 2010, he was at University of Minnesota as a trainee. As PhD candidate, he was a visitor Scholar at University of Florida in 2015, working in a statistical-genetics model for genotype-by-environment interaction for genome wide selection analysis. He has experience in plant breeding, quantitative genetics, linear mixed models and genome wide selection. His currently work is about quantitative genetics, linear mixed model and bayesian approach applied to plant breeding. For more information about Kaio, please visit his [Lattes CV](http://lattes.cnpq.br/7079781475856604)
+In 2010, he was at University of Minnesota as a trainee. As PhD candidate, he was a visitor Scholar at University of Florida in 2015, working in a statistical-genetics model for genotype-by-environment interaction for genome wide selection analysis. He has experience in plant breeding, quantitative genetics, linear mixed models and genome wide selection. His currently work is about quantitative genetics, linear mixed model and bayesian approach applied to plant breeding. For more information about Kaio, please visit his [Lattes CV](http://lattes.cnpq.br/7079781475856604).
 
 ## PhD Students
 
@@ -60,7 +58,7 @@ She has interest in study computational tools and statistical methods for plant 
 
 #### Gabriel de Siqueira Gesteira (by himself)
 
-_**Gabriel**_ is a PhD candidate in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He is Agronomist and has a MSc degree in Genetics and Plant Breeding, by Federal University of Lavras (UFLA). <img src="{{ site.url }}/images/Gabriel.jpg" height="100">{: .image-pull-right}
+_**Gabriel**_ is a PhD candidate in Genetics and Plant Breeding at “Luiz de Queiroz” College of Agriculture, University of São Paulo (ESALQ/USP). He is Agronomist and has a MSc degree in Genetics and Plant Breeding, by Federal University of Lavras (UFLA). <img src="{{ site.url }}/images/Gabriel.jpg" width="100">{: .image-pull-right}
 
 During his undergraduate and Master degrees he worked out with soybean breeding, focusing in early cultivars development and evaluation, quantitative genetics and studies about quantitative traits association. Nowadays, Gabriel is interested in quantitative genetics, genomic selection, genome-wide association studies and development of statistical methods for plant breeding. For more information about Gabriel, please visit [his Lattes CV](http://lattes.cnpq.br/3234001848993741).
 
@@ -96,7 +94,7 @@ Additionally, she is an Assistant Professor in the Department of Plant Biology, 
 
 #### Rafael Storto Nalin (by himself)
 
-_**Rafael**_ is a PhD Candidate in Genetics and Plant Breeding at University of São Paulo (ESALQ/USP). He has a Master degree in the same area by Federal University of Lavras and undergraduate degree in Agronomy by Federal Institute of Mato Grosso. <img src="{{ site.url }}/images/Rafael.jpg" height="120">{: .image-pull-right}
+_**Rafael**_ is a PhD Candidate in Genetics and Plant Breeding at University of São Paulo (ESALQ/USP). He has a Master degree in the same area by Federal University of Lavras and undergraduate degree in Agronomy by Federal Institute of Mato Grosso. <img src="{{ site.url }}/images/Rafael.jpg" height="100">{: .image-pull-right}
 
 His currently research focus on simulate different strategies in a breeding program of autogamous species to improve selection accuracy. Highlighting evaluation of early generations to select progenies in advanced cycles and also genomic selection aiming to identify promising biparental populations. His main interest are quantitative genetics, mixed model, genomic selection and programming, especially in R and C/C++.
 For more information about Rafael, please visit his [Lattes CV](http://lattes.cnpq.br/8662220181307266).
