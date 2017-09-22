@@ -34,19 +34,17 @@ Emacs, LaTeX, and git, among many other software and tools.
 
 ## Postdocs
 
-#### João Ricardo Bachega Feijó Rosa (by himself)
-
-_**João Ricardo**_ has an undergraduate degree in Agronomy, has MSc (2012) and PhD (2016) in Genetics and Plant Breeding at "Luiz de Queiroz"
-College of Agriculture, University of São Paulo. <img src="{{ site.url }}/images/JoaoRicardo.jpg" height="100">{: .image-pull-right}
-
-He initiated his career as a sugarcane breeder at Federal University of São Carlos, one of the principal Federal Universities in Brazil that is responsible for RIDESA, a public country-wide sugarcane breeding program. During his master degree at Department of Genetics of the University of São Paulo, João was interested to investigate the patterns of linkage disequilibrium and population structure on a Brazilian collection of sugarcane genotypes, a group of historically important accessions to Brazilian germplasm. His principal interest while a PhD Candidate was to use coalescent theory and population genetics concepts to understand the linkage disequilibrium and the evolutionary past of an important panel of accessions of Sorghum using next generation sequencing (SNPs from Genotyping-By-Sequencing). Furthermore, João is also involved into genome-wide association studies in Sorghum and collaborative projects of linkage analysis and association mapping of other very important crops for Brazil, such as common bean, cacao and passion fruit. For more information about João, please visit his [Lattes CV](http://lattes.cnpq.br/2084381270708398)
-
-
 #### Kaio Olímpio das Graças Dias (by himself)
 
 _**Kaio**_ has an undergraduate degree in Agronomy (2010) and Master degree (2013) and PhD (2016) in Genetics and Plant Breeding at Federal University of Lavras (UFLA). <img src="{{ site.url }}/images/Kaio.jpg" height="100">{: .image-pull-right}
 
 In 2010, he was at University of Minnesota as a trainee. As PhD candidate, he was a visitor Scholar at University of Florida in 2015, working in a statistical-genetics model for genotype-by-environment interaction for genome wide selection analysis. He has experience in plant breeding, quantitative genetics, linear mixed models and genome wide selection. His currently work is about quantitative genetics, linear mixed model and bayesian approach applied to plant breeding. For more information about Kaio, please visit his [Lattes CV](http://lattes.cnpq.br/7079781475856604).
+
+#### Letícia Aparecida de Castro Lara (by herself)
+
+_**Letícia**_ is a PhD candidate at Department of Genetics of the University of São Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Leticia.jpg" height="120">{: .image-pull-right}
+
+She has an undergraduate degree in Biology and Master degree in Genetics and Plant Breeding at Federal University of Lavras (UFLA). During her undergraduate and master, she worked with molecular genetics focusing on identification of QTL for disease resistance in common bean. In her PhD, she is working with development of statistical models in genomic selection considering allelic dosage for autotetraploid species, with applications in *Panicum maximum*. In her internship, she was supervised by Professor Zhao-Bang Zeng at North Carolina State University (NCSU, USA) where she compared the accuracy of prediction models using diploid dosage and tetraploid dosage. She has concentrated her studies in Quantitative Genetics of polyploids, Computing for Statistical Genetics (especially in R software) and Mixed Models. For more information about Leticia, please visit her [Lattes CV](http://lattes.cnpq.br/6188422226038954)
 
 ## PhD Students
 
@@ -68,23 +66,6 @@ During his undergraduate and Master degrees he worked out with soybean breeding,
 _**Jhonathan**_ is is an Agronomist (Maringá State University), Master in Genetics and Plant Breeding (Federal University of Lavras) PhD candidate at Department of Genetics of the University of São Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Jhonathan.jpg" height="120">{: .image-pull-right}
 
 He has experience with maize breeding (intern at Monsanto), development of  genetic mixed models and application of Genomic Selection to maize breeding (Federal University of Lavras). Nowadays, he is developing and evaluating Bayesian genetic models using a model-based machine learning approach via Bayesian Networks to analyse phenotypic data from sorghum growth traits collected through time (temporal series) coupled with functional-genome sequencing information (Colaboration, Cornell University - Prof. Dr. Michael Gore). He is interested in quantative genetics, genomic selection, Bayesian models and probabilistic programming (Stan, PyMC3, JAGS, Infer.NET) tools. For more information about Jhonathan, please visit her [Lattes CV](http://lattes.cnpq.br/3501227295313935).
-
----
-
-#### Letícia Aparecida de Castro Lara (by herself)
-
-_**Letícia**_ is a PhD candidate at Department of Genetics of the University of São Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Leticia.jpg" height="120">{: .image-pull-right}
-
-She has an undergraduate degree in Biology and Master degree in Genetics and Plant Breeding at Federal University of Lavras (UFLA). During her undergraduate and master, she worked with molecular genetics focusing on identification of QTL for disease resistance in common bean. In her PhD, she is working with development of statistical models in genomic selection considering allelic dosage for autotetraploid species, with applications in *Panicum maximum*. In her internship, she was supervised by Professor Zhao-Bang Zeng at North Carolina State University (NCSU, USA) where she compared the accuracy of prediction models using diploid dosage and tetraploid dosage. She has concentrated her studies in Quantitative Genetics of polyploids, Computing for Statistical Genetics (especially in R software) and Mixed Models. For more information about Leticia, please visit her [Lattes CV](http://lattes.cnpq.br/6188422226038954)
-
-
-#### Luís Felipe Ventorim Ferrão (by himself)
-
-_**Felipe**_ is Biologist and a PhD Candidate in Graduate Program of  Genetics and Plant Breeding (FAPESP grant number 2014/20389-2), University of São Paulo (ESALQ/USP). <img src="{{ site.url }}/images/felipe.jpg" height="120">{: .image-pull-right}
-
-His research focuses on the application and development of statistical methods of both computational and statistical tools for genomic prediction. His studies has been concentrated in Computing for Statistical Genetics (especially in R software), mixed models and, more recently, Bayesian approaches. ast research experiences include  genetic diversity studies, development and validation of molecular markers and QTL mapping. Most of his studies are applied in *Coffea canephora*, one of the coffee species most consumed in the world. 
-
-Currently, he is finishing the PhD studies as visiting student at the University of Chicago (FAPESP Research Internship Abroad), working under supervision of [Matthew Stephens](http://stephenslab.uchicago.edu/). For more information about Felipe, please visit his [Lattes CV](http://lattes.cnpq.br/6407723072644101)
 
 #### Marianella Fernanda Quezada Macchiavello (by herself)
 
