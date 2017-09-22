@@ -11,6 +11,16 @@ image:
   creditlink: http://augusto-garcia.github.io/
 ---
 
+#### Luís Felipe Ventorim Ferrão (by himself)
+
+_**Felipe**_ is Biologist and a PhD in Genetics and Plant Breeding (FAPESP grant number 2014/20389-2), University of São Paulo (ESALQ/USP). <img src="{{ site.url }}/images/felipe.jpg" height="120">{: .image-pull-right}
+
+While PhD, his research focuses on the application and development of statistical methods of both computational and statistical tools for genomic prediction. His studies were concentrated in Computing for Statistical Genetics (especially in R software), mixed models and, more recently, Bayesian approaches. His research experiences include genetic diversity studies, development and validation of molecular markers and QTL mapping. Most of his studies are applied in *Coffea canephora*, one of the coffee species most consumed in the world. During his PhD, he was a visiting student at the University of Chicago (FAPESP Research Internship Abroad), working under supervision of [Matthew Stephens](http://stephenslab.uchicago.edu/). For more information about Felipe, please visit his [Lattes CV](http://lattes.cnpq.br/6407723072644101). Currently, he is a postdoctoral fellow at University of Florida under supervision of Prof. Patricio Munoz.
+
+#### João Ricardo Bachega Feijó Rosa (by himself)
+
+_**João Ricardo**_ has an undergraduate degree in Agronomy, has MSc (2012) and PhD (2016) in Genetics and Plant Breeding at "Luiz de Queiroz" College of Agriculture, University of São Paulo. He initiated his career as a sugarcane breeder at Federal University of São Carlos, one of the principal Federal Universities in Brazil that is responsible for RIDESA, a public country-wide sugarcane breeding program. During his master degree at Department of Genetics of the University of São Paulo, João was interested to investigate the patterns of linkage disequilibrium and population structure on a Brazilian collection of sugarcane genotypes, a group of historically important accessions to Brazilian germplasm. His principal interest while a PhD Candidate was to use coalescent theory and population genetics concepts to understand the linkage disequilibrium and the evolutionary past of an important panel of accessions of Sorghum using next generation sequencing (SNPs from Genotyping-By-Sequencing). Furthermore, João was also involved into genome-wide association studies in Sorghum and collaborative projects of linkage analysis and association mapping of other very important crops for Brazil, such as common bean, cacao and passion fruit. For more information about João, please visit his [Lattes CV](http://lattes.cnpq.br/2084381270708398). Now he is soybean assistant breeder at FTs Sementes. 
+
 #### Danilo Eduardo Cursi
 _**Danilo**_ is an Agronomist and has MSc (2016) in Genetics
 and Plant Breeding of the Department of Genetics, University of São
