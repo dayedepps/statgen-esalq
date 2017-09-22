@@ -21,7 +21,7 @@ Otherwise, you can install the stable version:
 
 - [https://cran.r-project.org/web/packages/onemap/index.html](https://cran.r-project.org/web/packages/onemap/index.html)
 
-The original article Margarido et. al 2007 can be found at 
+The original article can be found at:
 
 - [Margarido, G. R. A., A. P. Souza, and A. A. F. Garcia. "OneMap: software for genetic mapping in outcrossing species." Hereditas 144.3 (2007): 78-79.](https://doi.org/10.1111/j.2007.0018-0661.02000.x)
 
@@ -30,7 +30,7 @@ It is a graphical Bayesian inference tool for genotyping polyploid compatible wi
 
 - [http://statgen.esalq.usp.br/SuperMASSA/](http://statgen.esalq.usp.br/SuperMASSA/)
 
-The original article Serang et. al 2012 can be found at:
+The original article can be found at:
 
 - [Serang, Oliver, Marcelo Mollinari, and Antonio Augusto Franco Garcia. "Efficient exact maximum a posteriori computation for bayesian SNP genotyping in polyploids." PLoS One 7.2 (2012): e30906.](https://doi.org/10.1371/journal.pone.0030906)
 
@@ -39,7 +39,7 @@ It is an R package to compute relationship matrices for diploid and autopolyploi
 
 - [https://github.com/prmunoz/AGHmatrix](https://github.com/prmunoz/AGHmatrix)
 
-The original article Amadeu et. al 2016 can be found at:
+The original article can be found at:
 
 - [Amadeu, Rodrigo R., et al. "AGHmatrix: R Package to Construct Relationship Matrices for Autotetraploid and Diploid Species: A Blueberry Example." The plant genome (2016).](https://doi.org/10.3835/plantgenome2016.01.0009)
 
