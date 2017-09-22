@@ -52,6 +52,8 @@ links:
 #    external: true
   - title: Contact
     url: /contact/
+  - title: Softwares
+    url: /softwares/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
