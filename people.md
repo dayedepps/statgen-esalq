@@ -82,6 +82,12 @@ For more information about Rafael, please visit his [Lattes CV](http://lattes.cn
 
 ## MSc Students
 
+#### Camila Godoy dos Santos (by herself)
+
+_**Camila**_ is an Agronomist (Federal University of Uberlândia) and Master’s Student in Genetics and Plant Breeding at the University of São Paulo (ESALQ / USP). <img src="{{ site.url }}/images/Camila.jpg" height="120">{: .image-pull-right}
+
+During her undergraduate, she had a three-year internship in a Cotton Breeding Program, working with genetic diversity and microsatellite markers. Currently, Camila is interested in quantitative genetics, genomic selection and development of statistical methods for plant breeding. For more information about Jéssica, please visit her [Lattes CV](http://lattes.cnpq.br/9735061947784332).
+
 #### Matheus Dalsente Krause (by himself)
 
 _**Matheus**_ is an Agricultural Technician (La Salle Agro), an Agronomist (State University of Londrina), and a Master's Student in Genetics and Plant Breeding of the University of São Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Matheus.jpg" height="120">{: .image-pull-right}
@@ -94,8 +100,11 @@ During his undergraduate, he had a four-year internship at Laboratory of Maize B
 _**Rodrigo**_ is an Agronomist and a Master Student (MSc) in Genetics and Plant Breeding of the Department of Genetics, University of São
 Paulo (ESALQ/USP). <img src="{{ site.url }}/images/Rodrigo.jpg" height="120">{: .image-pull-right}
 
-He was intern in the Statistical Genetics Lab during all his undergrad course. He has worked with population structure analysis and developed Statistical Genetics softwares. As undergrad, he made a sandwich period at University of Florida, USA. In this period, he was intern at Forage Breeding and Genome Lab (Prof Patricio Munoz's Lab) and developed a [software](https://github.com/prmunoz/AGHmatrix) for construction of A and G matrices in autotetraploid crops (GS). His currently work is to expand these methods to n-ploidy organisms and he is also involved in Genetic Mapping and Genomic Selection projects. Also, he is an R enthusiastic. For more information about Rodrigo, please visit his [Lattes CV](http://lattes.cnpq.br/2210851675591886).
+He is at the Statistical Genetics Lab since freshman. Since then, he has worked with population genetics and developed Statistical Genetics softwares. As undergrad, he made a sandwich period at University of Florida, USA. In this period, he was intern at Prof Patricio Munoz's Lab and developed a [software](https://github.com/prmunoz/AGHmatrix) to compute pairwise relatedness matrices in autopolyploid crops. His current work is to compare different methods to estimate pairwise relatedness based on molecular marker in autopolyploids crops. He is also involved in Genetic Mapping, QTL Mapping, and Genomic Selection projects. Additionally, he has collaborate in different R packages from the Lab. For more information about Rodrigo, please visit his [Lattes CV](http://lattes.cnpq.br/2210851675591886).
 
 ## Undergraduated students
 
-Currently we do not have any undergrad, join us!
+#### Jéssica Carolina Zilio (by herself) 
+_**Jéssica**_ is an undergraduate student in Agricultural Engineering at "Luiz de Queiroz" College of Agriculture (ESALQ/USP). <img src="{{ site.url }}/images/Jessica.jpg" height="120">{: .image-pull-right} 
+
+Currently she is doing a Scientific Initiation (CNPq) with the project "Development of methods for selecting redundant molecular markers in genomic selection procedures". For more information about Jéssica, please visit her Lattes CV. For more information about Jéssica, please visit her [Lattes CV](http://lattes.cnpq.br/5401775571964623).
