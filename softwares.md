@@ -14,7 +14,7 @@ Here we list the softwares developed and under development by the Statiscal-Gene
 
 #### OneMap 
 Software for constructing genetic maps in experimental crosses: full-sib, RILs, F2 and backcrosses.
-To install, we recommend the under development (and constrantly upgraded) version from github:
+To install, we recommend the under development (and constantly upgraded) version from github:
 - [www.github.com/augusto-garcia/onemap](www.github.com/augusto-garcia/onemap)
 
 Otherwise, you can install the stable version:
