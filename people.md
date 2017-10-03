@@ -86,7 +86,7 @@ For more information about Rafael, please visit his [Lattes CV](http://lattes.cn
 
 _**Camila**_ is an Agronomist (Federal University of Uberlândia) and Master’s Student in Genetics and Plant Breeding at the University of São Paulo (ESALQ / USP). <img src="{{ site.url }}/images/Camila.jpg" height="120">{: .image-pull-right}
 
-During her undergraduate, she had a three-year internship in a Cotton Breeding Program, working with genetic diversity and microsatellite markers. Currently, Camila is interested in quantitative genetics, genomic selection and development of statistical methods for plant breeding. For more information about Jéssica, please visit her [Lattes CV](http://lattes.cnpq.br/9735061947784332).
+During her undergraduate, she had a three-year internship in a Cotton Breeding Program, working with genetic diversity and microsatellite markers. Currently, Camila is interested in quantitative genetics, genomic selection and development of statistical methods for plant breeding. For more information about Camila, please visit her [Lattes CV](http://lattes.cnpq.br/9735061947784332).
 
 #### Matheus Dalsente Krause (by himself)
 
@@ -107,4 +107,4 @@ He is at the Statistical Genetics Lab since freshman. Since then, he has worked 
 #### Jéssica Carolina Zilio (by herself) 
 _**Jéssica**_ is an undergraduate student in Agricultural Engineering at "Luiz de Queiroz" College of Agriculture (ESALQ/USP). <img src="{{ site.url }}/images/Jessica.jpg" height="120">{: .image-pull-right} 
 
-Currently she is doing a Scientific Initiation (CNPq) with the project "Development of methods for selecting redundant molecular markers in genomic selection procedures". For more information about Jéssica, please visit her Lattes CV. For more information about Camila, please visit her [Lattes CV](http://lattes.cnpq.br/5401775571964623).
+Currently she is doing a Scientific Initiation (CNPq) with the project "Development of methods for selecting redundant molecular markers in genomic selection procedures". For more information about Jéssica, please visit her Lattes CV. For more information about Jéssica, please visit her [Lattes CV](http://lattes.cnpq.br/5401775571964623).
