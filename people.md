@@ -107,4 +107,4 @@ He is at the Statistical Genetics Lab since freshman. Since then, he has worked 
 #### Jéssica Carolina Zilio (by herself) 
 _**Jéssica**_ is an undergraduate student in Agricultural Engineering at "Luiz de Queiroz" College of Agriculture (ESALQ/USP). <img src="{{ site.url }}/images/Jessica.jpg" height="120">{: .image-pull-right} 
 
-Currently she is doing a Scientific Initiation (CNPq) with the project "Development of methods for selecting redundant molecular markers in genomic selection procedures". For more information about Jéssica, please visit her Lattes CV. For more information about Jéssica, please visit her [Lattes CV](http://lattes.cnpq.br/5401775571964623).
+Currently she is doing a Scientific Initiation (CNPq) with the project "Development of methods for selecting redundant molecular markers in genomic selection procedures". For more information about Jéssica, please visit her Lattes CV. For more information about Camila, please visit her [Lattes CV](http://lattes.cnpq.br/5401775571964623).
